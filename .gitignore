@@ -1,0 +1,37 @@
+# Environments & Virtual Environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Secrets & Environment Variables (Never commit secrets)
+.env
+.env.local
+secrets.toml
+secrets.cloud.toml
+.streamlit/secrets.toml
+.streamlit/secrets.cloud.toml
+
+# Node & Frontend Dependencies & Build
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coursework Reports & Draft Documents (Omitted from git per configuration)
+docs/
+
+# IDE, OS & System Files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

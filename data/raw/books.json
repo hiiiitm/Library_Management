@@ -1,0 +1,6987 @@
+[
+  {
+    "book_id": "B0001",
+    "isbn13": "9780132350884",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "authors": [
+      {
+        "author_id": "A0001",
+        "name": "Robert C. Martin"
+      }
+    ],
+    "genres": [
+      "Computer Science & Technology"
+    ],
+    "publisher": "Prentice Hall",
+    "publication_year": 2008,
+    "language": "English",
+    "pages": 464,
+    "description": "A foundational guide on refactoring, writing meaningful names, and structuring maintainable object-oriented software.",
+    "tags": [
+      "software engineering",
+      "clean code",
+      "refactoring"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "CS-01",
+    "avg_rating": 3.5,
+    "ratings_count": 4,
+    "created_at": "2008-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0002",
+    "isbn13": "9780201633610",
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "authors": [
+      {
+        "author_id": "A0002",
+        "name": "Erich Gamma"
+      },
+      {
+        "author_id": "A0003",
+        "name": "Richard Helm"
+      },
+      {
+        "author_id": "A0004",
+        "name": "Ralph Johnson"
+      },
+      {
+        "author_id": "A0005",
+        "name": "John Vlissides"
+      }
+    ],
+    "genres": [
+      "Computer Science & Technology"
+    ],
+    "publisher": "Addison-Wesley",
+    "publication_year": 1994,
+    "language": "English",
+    "pages": 395,
+    "description": "The seminal Gang of Four reference outlining 23 classic structural, behavioral, and creational software patterns.",
+    "tags": [
+      "design patterns",
+      "architecture",
+      "oop"
+    ],
+    "total_copies": 5,
+    "available_copies": 5,
+    "shelf_location": "CS-02",
+    "avg_rating": 4.33,
+    "ratings_count": 3,
+    "created_at": "1994-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0003",
+    "isbn13": "9780135957059",
+    "title": "The Pragmatic Programmer: Your Journey To Mastery",
+    "authors": [
+      {
+        "author_id": "A0006",
+        "name": "David Thomas"
+      },
+      {
+        "author_id": "A0007",
+        "name": "Andrew Hunt"
+      }
+    ],
+    "genres": [
+      "Computer Science & Technology"
+    ],
+    "publisher": "Addison-Wesley",
+    "publication_year": 2019,
+    "language": "English",
+    "pages": 352,
+    "description": "Timeless engineering wisdom covering career ownership, tooling, defensive programming, and architecture.",
+    "tags": [
+      "pragmatic programming",
+      "craftsmanship",
+      "best practices"
+    ],
+    "total_copies": 6,
+    "available_copies": 6,
+    "shelf_location": "CS-03",
+    "avg_rating": 2.5,
+    "ratings_count": 2,
+    "created_at": "2019-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0004",
+    "isbn13": "9781449373320",
+    "title": "Designing Data-Intensive Applications",
+    "authors": [
+      {
+        "author_id": "A0008",
+        "name": "Martin Kleppmann"
+      }
+    ],
+    "genres": [
+      "Computer Science & Technology"
+    ],
+    "publisher": "O'Reilly Media",
+    "publication_year": 2017,
+    "language": "English",
+    "pages": 616,
+    "description": "An exhaustive examination of storage engines, distributed consensus, stream processing, and replication tradeoffs.",
+    "tags": [
+      "distributed systems",
+      "databases",
+      "scalability"
+    ],
+    "total_copies": 8,
+    "available_copies": 6,
+    "shelf_location": "CS-04",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2017-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0005",
+    "isbn13": "9780262033848",
+    "title": "Introduction to Algorithms",
+    "authors": [
+      {
+        "author_id": "A0009",
+        "name": "Thomas H. Cormen"
+      },
+      {
+        "author_id": "A0010",
+        "name": "Charles E. Leiserson"
+      },
+      {
+        "author_id": "A0011",
+        "name": "Ronald L. Rivest"
+      },
+      {
+        "author_id": "A0012",
+        "name": "Clifford Stein"
+      }
+    ],
+    "genres": [
+      "Computer Science & Technology"
+    ],
+    "publisher": "MIT Press",
+    "publication_year": 2009,
+    "language": "English",
+    "pages": 1312,
+    "description": "The authoritative global textbook offering rigorous proofs and implementations of algorithmic paradigms and data structures.",
+    "tags": [
+      "algorithms",
+      "data structures",
+      "academic"
+    ],
+    "total_copies": 9,
+    "available_copies": 9,
+    "shelf_location": "CS-05",
+    "avg_rating": 4.0,
+    "ratings_count": 2,
+    "created_at": "2009-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0006",
+    "isbn13": "9780134757599",
+    "title": "Refactoring: Improving the Design of Existing Code",
+    "authors": [
+      {
+        "author_id": "A0013",
+        "name": "Martin Fowler"
+      }
+    ],
+    "genres": [
+      "Computer Science & Technology"
+    ],
+    "publisher": "Addison-Wesley",
+    "publication_year": 2018,
+    "language": "English",
+    "pages": 448,
+    "description": "A catalog of step-by-step code transformations aimed at eliminating smells and boosting system testability.",
+    "tags": [
+      "refactoring",
+      "martin fowler",
+      "clean code"
+    ],
+    "total_copies": 6,
+    "available_copies": 4,
+    "shelf_location": "CS-06",
+    "avg_rating": 1.0,
+    "ratings_count": 1,
+    "created_at": "2018-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0007",
+    "isbn13": "9780262510875",
+    "title": "Structure and Interpretation of Computer Programs",
+    "authors": [
+      {
+        "author_id": "A0014",
+        "name": "Harold Abelson"
+      },
+      {
+        "author_id": "A0015",
+        "name": "Gerald Jay Sussman"
+      }
+    ],
+    "genres": [
+      "Computer Science & Technology"
+    ],
+    "publisher": "MIT Press",
+    "publication_year": 1996,
+    "language": "English",
+    "pages": 657,
+    "description": "A legendary journey into the nature of computation using Scheme to demonstrate abstraction, recursion, and metaprogramming.",
+    "tags": [
+      "sicp",
+      "functional programming",
+      "lisp"
+    ],
+    "total_copies": 4,
+    "available_copies": 2,
+    "shelf_location": "CS-07",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "1996-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0008",
+    "isbn13": "9780321125217",
+    "title": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+    "authors": [
+      {
+        "author_id": "A0016",
+        "name": "Eric Evans"
+      }
+    ],
+    "genres": [
+      "Computer Science & Technology"
+    ],
+    "publisher": "Addison-Wesley",
+    "publication_year": 2003,
+    "language": "English",
+    "pages": 560,
+    "description": "A comprehensive framework for connecting complex business models with cohesive, expressive software architecture.",
+    "tags": [
+      "ddd",
+      "software architecture",
+      "enterprise"
+    ],
+    "total_copies": 5,
+    "available_copies": 3,
+    "shelf_location": "CS-08",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "2003-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0009",
+    "isbn13": "9781985086593",
+    "title": "Operating Systems: Three Easy Pieces",
+    "authors": [
+      {
+        "author_id": "A0017",
+        "name": "Remzi H. Arpaci-Dusseau"
+      },
+      {
+        "author_id": "A0018",
+        "name": "Andrea C. Arpaci-Dusseau"
+      }
+    ],
+    "genres": [
+      "Computer Science & Technology"
+    ],
+    "publisher": "Arpaci-Dusseau Books",
+    "publication_year": 2018,
+    "language": "English",
+    "pages": 714,
+    "description": "A lucid and intuitive textbook breaking modern operating systems into virtualization, concurrency, and persistence.",
+    "tags": [
+      "operating systems",
+      "concurrency",
+      "virtualization"
+    ],
+    "total_copies": 5,
+    "available_copies": 3,
+    "shelf_location": "CS-09",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "2018-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0010",
+    "isbn13": "9780136681557",
+    "title": "Computer Networking: A Top-Down Approach",
+    "authors": [
+      {
+        "author_id": "A0019",
+        "name": "James F. Kurose"
+      },
+      {
+        "author_id": "A0020",
+        "name": "Keith W. Ross"
+      }
+    ],
+    "genres": [
+      "Computer Science & Technology"
+    ],
+    "publisher": "Pearson",
+    "publication_year": 2020,
+    "language": "English",
+    "pages": 864,
+    "description": "A premier networking text starting from application-layer protocols and unwinding down to the physical transport medium.",
+    "tags": [
+      "networking",
+      "internet protocols",
+      "tcp ip"
+    ],
+    "total_copies": 5,
+    "available_copies": 2,
+    "shelf_location": "CS-10",
+    "avg_rating": 4.4,
+    "ratings_count": 5,
+    "created_at": "2020-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0011",
+    "isbn13": "9781492056355",
+    "title": "Fluent Python: Clear, Concise, and Effective Programming",
+    "authors": [
+      {
+        "author_id": "A0021",
+        "name": "Luciano Ramalho"
+      }
+    ],
+    "genres": [
+      "Computer Science & Technology"
+    ],
+    "publisher": "O'Reilly Media",
+    "publication_year": 2022,
+    "language": "English",
+    "pages": 1012,
+    "description": "An in-depth guide to Python idioms, special methods, concurrency with asyncio, and idiomatic type hinting.",
+    "tags": [
+      "python",
+      "idiomatic python",
+      "concurrency"
+    ],
+    "total_copies": 6,
+    "available_copies": 6,
+    "shelf_location": "CS-11",
+    "avg_rating": 4.6,
+    "ratings_count": 5,
+    "created_at": "2022-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0012",
+    "isbn13": "9781492040347",
+    "title": "Database Internals: A Deep Dive into How Distributed Data Systems Work",
+    "authors": [
+      {
+        "author_id": "A0022",
+        "name": "Alex Petrov"
+      }
+    ],
+    "genres": [
+      "Computer Science & Technology"
+    ],
+    "publisher": "O'Reilly Media",
+    "publication_year": 2019,
+    "language": "English",
+    "pages": 372,
+    "description": "A technical masterclass dissecting B-Trees, LSM-trees, write-ahead logs, and consensus mechanisms like Paxos and Raft.",
+    "tags": [
+      "databases",
+      "storage engines",
+      "distributed consensus"
+    ],
+    "total_copies": 4,
+    "available_copies": 1,
+    "shelf_location": "CS-12",
+    "avg_rating": 5.0,
+    "ratings_count": 3,
+    "created_at": "2019-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0013",
+    "isbn13": "9780321601919",
+    "title": "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation",
+    "authors": [
+      {
+        "author_id": "A0023",
+        "name": "Jez Humble"
+      },
+      {
+        "author_id": "A0024",
+        "name": "David Farley"
+      }
+    ],
+    "genres": [
+      "Computer Science & Technology"
+    ],
+    "publisher": "Addison-Wesley",
+    "publication_year": 2010,
+    "language": "English",
+    "pages": 496,
+    "description": "The definitive principles and technical practices behind automated deployment pipelines and devops methodologies.",
+    "tags": [
+      "devops",
+      "ci cd",
+      "automation"
+    ],
+    "total_copies": 5,
+    "available_copies": 2,
+    "shelf_location": "CS-13",
+    "avg_rating": 4.0,
+    "ratings_count": 2,
+    "created_at": "2010-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0014",
+    "isbn13": "9781491929124",
+    "title": "Site Reliability Engineering: How Google Runs Production Systems",
+    "authors": [
+      {
+        "author_id": "A0025",
+        "name": "Betsy Beyer"
+      },
+      {
+        "author_id": "A0026",
+        "name": "Chris Jones"
+      },
+      {
+        "author_id": "A0027",
+        "name": "Jennifer Petoff"
+      },
+      {
+        "author_id": "A0028",
+        "name": "Niall Richard Murphy"
+      }
+    ],
+    "genres": [
+      "Computer Science & Technology"
+    ],
+    "publisher": "O'Reilly Media",
+    "publication_year": 2016,
+    "language": "English",
+    "pages": 550,
+    "description": "Google's internal engineers share operational architectures, service level objectives, and incident post-mortem practices.",
+    "tags": [
+      "sre",
+      "cloud operations",
+      "google"
+    ],
+    "total_copies": 6,
+    "available_copies": 5,
+    "shelf_location": "CS-14",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "2016-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0015",
+    "isbn13": "9780262035613",
+    "title": "Deep Learning",
+    "authors": [
+      {
+        "author_id": "A0029",
+        "name": "Ian Goodfellow"
+      },
+      {
+        "author_id": "A0030",
+        "name": "Yoshua Bengio"
+      },
+      {
+        "author_id": "A0031",
+        "name": "Aaron Courville"
+      }
+    ],
+    "genres": [
+      "Computer Science & Technology",
+      "Science"
+    ],
+    "publisher": "MIT Press",
+    "publication_year": 2016,
+    "language": "English",
+    "pages": 800,
+    "description": "The foundational mathematical and theoretical textbook for modern neural networks, optimization, and generative models.",
+    "tags": [
+      "deep learning",
+      "ai",
+      "neural networks"
+    ],
+    "total_copies": 7,
+    "available_copies": 5,
+    "shelf_location": "CS-15",
+    "avg_rating": 3.5,
+    "ratings_count": 4,
+    "created_at": "2016-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0016",
+    "isbn13": "9780984782857",
+    "title": "Cracking the Coding Interview",
+    "authors": [
+      {
+        "author_id": "A0032",
+        "name": "Gayle Laakmann McDowell"
+      }
+    ],
+    "genres": [
+      "Computer Science & Technology"
+    ],
+    "publisher": "CareerCup",
+    "publication_year": 2015,
+    "language": "English",
+    "pages": 687,
+    "description": "A comprehensive prep manual packed with 189 programming problems covering trees, graphs, dynamic programming, and systems.",
+    "tags": [
+      "coding interview",
+      "problem solving",
+      "algorithms"
+    ],
+    "total_copies": 10,
+    "available_copies": 10,
+    "shelf_location": "CS-16",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "2015-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0017",
+    "isbn13": "9780679457312",
+    "title": "The God of Small Things",
+    "authors": [
+      {
+        "author_id": "A0033",
+        "name": "Arundhati Roy"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "Fiction"
+    ],
+    "publisher": "Random House India",
+    "publication_year": 1997,
+    "language": "English",
+    "pages": 340,
+    "description": "A Booker Prize-winning lyrical narrative exploring childhood trauma, forbidden love, and rigid caste lines in rural Kerala.",
+    "tags": [
+      "kerala",
+      "family saga",
+      "booker prize"
+    ],
+    "total_copies": 8,
+    "available_copies": 4,
+    "shelf_location": "IA-01",
+    "avg_rating": 4.0,
+    "ratings_count": 5,
+    "created_at": "1997-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0018",
+    "isbn13": "9780224018234",
+    "title": "Midnight's Children",
+    "authors": [
+      {
+        "author_id": "A0034",
+        "name": "Salman Rushdie"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "Classics"
+    ],
+    "publisher": "Jonathan Cape",
+    "publication_year": 1981,
+    "language": "English",
+    "pages": 647,
+    "description": "A magical realism masterpiece following children born at the exact midnight hour of India's independence.",
+    "tags": [
+      "magical realism",
+      "postcolonial",
+      "indian independence"
+    ],
+    "total_copies": 6,
+    "available_copies": 5,
+    "shelf_location": "IA-02",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "1981-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0019",
+    "isbn13": "9780060170127",
+    "title": "A Suitable Boy",
+    "authors": [
+      {
+        "author_id": "A0035",
+        "name": "Vikram Seth"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "Fiction"
+    ],
+    "publisher": "HarperCollins India",
+    "publication_year": 1993,
+    "language": "English",
+    "pages": 1349,
+    "description": "An epic social tapestry chronicling post-independence Indian society through a young woman's search for marriage.",
+    "tags": [
+      "epic",
+      "family drama",
+      "modern classics"
+    ],
+    "total_copies": 5,
+    "available_copies": 1,
+    "shelf_location": "IA-03",
+    "avg_rating": 3.25,
+    "ratings_count": 4,
+    "created_at": "1993-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0020",
+    "isbn13": "9781416562597",
+    "title": "The White Tiger",
+    "authors": [
+      {
+        "author_id": "A0036",
+        "name": "Aravind Adiga"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "Fiction"
+    ],
+    "publisher": "HarperCollins India",
+    "publication_year": 2008,
+    "language": "English",
+    "pages": 276,
+    "description": "A biting dark satire of social mobility, entrepreneurship, and class divide narrated by a cunning chauffeur.",
+    "tags": [
+      "dark humor",
+      "social satire",
+      "booker winner"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "IA-04",
+    "avg_rating": 4.14,
+    "ratings_count": 7,
+    "created_at": "2008-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0021",
+    "isbn13": "9789380658742",
+    "title": "The Immortals of Meluha",
+    "authors": [
+      {
+        "author_id": "A0037",
+        "name": "Amish Tripathi"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "Fantasy"
+    ],
+    "publisher": "Westland",
+    "publication_year": 2010,
+    "language": "English",
+    "pages": 390,
+    "description": "A mythological reinterpretation depicting Shiva as a mortal Tibetan warrior destined to save the ancient land of Meluha.",
+    "tags": [
+      "mythology",
+      "shiva trilogy",
+      "adventure"
+    ],
+    "total_copies": 9,
+    "available_copies": 8,
+    "shelf_location": "IA-05",
+    "avg_rating": 4.67,
+    "ratings_count": 3,
+    "created_at": "2010-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0022",
+    "isbn13": "9789381626344",
+    "title": "The Secret of the Nagas",
+    "authors": [
+      {
+        "author_id": "A0037",
+        "name": "Amish Tripathi"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "Fantasy"
+    ],
+    "publisher": "Westland",
+    "publication_year": 2011,
+    "language": "English",
+    "pages": 396,
+    "description": "The second installment of the Shiva trilogy unveiling sinister conspiracies and the mysterious serpent tribe.",
+    "tags": [
+      "mythology",
+      "shiva trilogy",
+      "indian fantasy"
+    ],
+    "total_copies": 8,
+    "available_copies": 5,
+    "shelf_location": "IA-06",
+    "avg_rating": 4.0,
+    "ratings_count": 2,
+    "created_at": "2011-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0023",
+    "isbn13": "9789382618348",
+    "title": "The Oath of the Vayuputras",
+    "authors": [
+      {
+        "author_id": "A0037",
+        "name": "Amish Tripathi"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "Fantasy"
+    ],
+    "publisher": "Westland",
+    "publication_year": 2013,
+    "language": "English",
+    "pages": 565,
+    "description": "The climactic battle of the Shiva trilogy where good and evil clash over the Somras elixir.",
+    "tags": [
+      "mythology",
+      "epic finale",
+      "shiva"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "IA-07",
+    "avg_rating": 4.67,
+    "ratings_count": 3,
+    "created_at": "2013-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0024",
+    "isbn13": "9780385524865",
+    "title": "The Palace of Illusions",
+    "authors": [
+      {
+        "author_id": "A0038",
+        "name": "Chitra Banerjee Divakaruni"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "Fantasy",
+      "Fiction"
+    ],
+    "publisher": "Picador India",
+    "publication_year": 2008,
+    "language": "English",
+    "pages": 360,
+    "description": "A feminist reimagining of the Mahabharata narrated through the impassioned and complex voice of Panchaali.",
+    "tags": [
+      "mahabharata",
+      "feminist retelling",
+      "mythology"
+    ],
+    "total_copies": 8,
+    "available_copies": 4,
+    "shelf_location": "IA-08",
+    "avg_rating": 3.75,
+    "ratings_count": 4,
+    "created_at": "2008-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0025",
+    "isbn13": "9789353025984",
+    "title": "The Forest of Enchantments",
+    "authors": [
+      {
+        "author_id": "A0038",
+        "name": "Chitra Banerjee Divakaruni"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "Fantasy",
+      "Fiction"
+    ],
+    "publisher": "HarperCollins India",
+    "publication_year": 2019,
+    "language": "English",
+    "pages": 358,
+    "description": "The Ramayana told from the perspective of Sita, celebrating female courage, love, and quiet endurance.",
+    "tags": [
+      "ramayana",
+      "sita",
+      "mythology"
+    ],
+    "total_copies": 7,
+    "available_copies": 3,
+    "shelf_location": "IA-09",
+    "avg_rating": 4.0,
+    "ratings_count": 3,
+    "created_at": "2019-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0026",
+    "isbn13": "9780140107999",
+    "title": "The Shadow Lines",
+    "authors": [
+      {
+        "author_id": "A0039",
+        "name": "Amitav Ghosh"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "Fiction"
+    ],
+    "publisher": "Ravi Dayal",
+    "publication_year": 1988,
+    "language": "English",
+    "pages": 246,
+    "description": "A poignant exploration of memory, borders, communal strife, and deep connections linking Calcutta and London.",
+    "tags": [
+      "borders",
+      "memory",
+      "sahitya akademi"
+    ],
+    "total_copies": 5,
+    "available_copies": 3,
+    "shelf_location": "IA-10",
+    "avg_rating": 3.0,
+    "ratings_count": 1,
+    "created_at": "1988-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0027",
+    "isbn13": "9780719568954",
+    "title": "Sea of Poppies",
+    "authors": [
+      {
+        "author_id": "A0039",
+        "name": "Amitav Ghosh"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "History",
+      "Fiction"
+    ],
+    "publisher": "John Murray",
+    "publication_year": 2008,
+    "language": "English",
+    "pages": 515,
+    "description": "The opening volume of the Ibis trilogy set against the volatile opium trade between British India and China.",
+    "tags": [
+      "historical fiction",
+      "opium wars",
+      "colonialism"
+    ],
+    "total_copies": 6,
+    "available_copies": 3,
+    "shelf_location": "IA-11",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "2008-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0028",
+    "isbn13": "9780140188547",
+    "title": "The Guide",
+    "authors": [
+      {
+        "author_id": "A0040",
+        "name": "R.K. Narayan"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "Classics"
+    ],
+    "publisher": "Methuen",
+    "publication_year": 1958,
+    "language": "English",
+    "pages": 220,
+    "description": "The transformative journey of Raju from a corrupt Malgudi tour guide into a revered spiritual hermit.",
+    "tags": [
+      "malgudi",
+      "transformation",
+      "classic literature"
+    ],
+    "total_copies": 6,
+    "available_copies": 5,
+    "shelf_location": "IA-12",
+    "avg_rating": 4.75,
+    "ratings_count": 4,
+    "created_at": "1958-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0029",
+    "isbn13": "9788185986173",
+    "title": "Malgudi Days",
+    "authors": [
+      {
+        "author_id": "A0040",
+        "name": "R.K. Narayan"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "Classics"
+    ],
+    "publisher": "Indian Thought Publications",
+    "publication_year": 1943,
+    "language": "English",
+    "pages": 256,
+    "description": "Charming vignettes capturing everyday human warmth, humor, and eccentricities in an idyllic South Indian town.",
+    "tags": [
+      "short stories",
+      "malgudi",
+      "nostalgia"
+    ],
+    "total_copies": 8,
+    "available_copies": 6,
+    "shelf_location": "IA-13",
+    "avg_rating": 4.0,
+    "ratings_count": 3,
+    "created_at": "1943-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0030",
+    "isbn13": "9780143065883",
+    "title": "Train to Pakistan",
+    "authors": [
+      {
+        "author_id": "A0041",
+        "name": "Khushwant Singh"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "History",
+      "Fiction"
+    ],
+    "publisher": "Chatto & Windus",
+    "publication_year": 1956,
+    "language": "English",
+    "pages": 190,
+    "description": "A harrowing and compassionate chronicle of the Partition trauma that shatters a quiet border village in Punjab.",
+    "tags": [
+      "partition",
+      "historical fiction",
+      "punjab"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "IA-14",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "1956-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0031",
+    "isbn13": "9789386021731",
+    "title": "Inglorious Empire: What the British Did to India",
+    "authors": [
+      {
+        "author_id": "A0042",
+        "name": "Shashi Tharoor"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "History"
+    ],
+    "publisher": "Aleph Book Company",
+    "publication_year": 2016,
+    "language": "English",
+    "pages": 332,
+    "description": "A forceful historical audit systematically debunking myths of benevolent British colonial rule in India.",
+    "tags": [
+      "colonial history",
+      "non-fiction",
+      "tharoor"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "IA-15",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "2016-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0032",
+    "isbn13": "9789383064656",
+    "title": "An Era of Darkness: The British Empire in India",
+    "authors": [
+      {
+        "author_id": "A0042",
+        "name": "Shashi Tharoor"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "History"
+    ],
+    "publisher": "Aleph Book Company",
+    "publication_year": 2016,
+    "language": "English",
+    "pages": 360,
+    "description": "An exhaustive examination of the economic decimation, famines, and socio-political divisions left by imperial rule.",
+    "tags": [
+      "empire",
+      "history",
+      "indian economy"
+    ],
+    "total_copies": 6,
+    "available_copies": 5,
+    "shelf_location": "IA-16",
+    "avg_rating": 4.0,
+    "ratings_count": 3,
+    "created_at": "2016-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0033",
+    "isbn13": "9788173711466",
+    "title": "Wings of Fire",
+    "authors": [
+      {
+        "author_id": "A0043",
+        "name": "A.P.J. Abdul Kalam"
+      },
+      {
+        "author_id": "A0044",
+        "name": "Arun Tiwari"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "Biography"
+    ],
+    "publisher": "Universities Press",
+    "publication_year": 1999,
+    "language": "English",
+    "pages": 180,
+    "description": "The inspiring autobiography of India's Missile Man detailing his humble beginnings, space program leadership, and vision.",
+    "tags": [
+      "inspiration",
+      "space program",
+      "kalam"
+    ],
+    "total_copies": 9,
+    "available_copies": 8,
+    "shelf_location": "IA-17",
+    "avg_rating": 1.0,
+    "ratings_count": 2,
+    "created_at": "1999-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0034",
+    "isbn13": "9780143029823",
+    "title": "Ignited Minds: Unleashing the Power Within India",
+    "authors": [
+      {
+        "author_id": "A0043",
+        "name": "A.P.J. Abdul Kalam"
+      }
+    ],
+    "genres": [
+      "Indian Authors",
+      "Self-Help"
+    ],
+    "publisher": "Penguin India",
+    "publication_year": 2002,
+    "language": "English",
+    "pages": 205,
+    "description": "A passionate call to the youth of India to dream big, embrace scientific thinking, and transform the nation.",
+    "tags": [
+      "youth",
+      "nation building",
+      "inspiration"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "IA-18",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "2002-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0035",
+    "isbn13": "9780451524935",
+    "title": "1984",
+    "authors": [
+      {
+        "author_id": "A0045",
+        "name": "George Orwell"
+      }
+    ],
+    "genres": [
+      "Classics",
+      "Sci-Fi"
+    ],
+    "publisher": "Secker & Warburg",
+    "publication_year": 1949,
+    "language": "English",
+    "pages": 328,
+    "description": "A chilling dystopian warning against state surveillance, totalitarianism, and the systematic erasure of objective truth.",
+    "tags": [
+      "dystopia",
+      "surveillance",
+      "big brother"
+    ],
+    "total_copies": 9,
+    "available_copies": 8,
+    "shelf_location": "CL-01",
+    "avg_rating": 3.0,
+    "ratings_count": 2,
+    "created_at": "1949-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0036",
+    "isbn13": "9780451526342",
+    "title": "Animal Farm",
+    "authors": [
+      {
+        "author_id": "A0045",
+        "name": "George Orwell"
+      }
+    ],
+    "genres": [
+      "Classics",
+      "Fiction"
+    ],
+    "publisher": "Secker & Warburg",
+    "publication_year": 1945,
+    "language": "English",
+    "pages": 140,
+    "description": "An allegorical fable illustrating how revolutionary ideals can be subverted into totalitarian corruption.",
+    "tags": [
+      "political satire",
+      "allegory",
+      "revolution"
+    ],
+    "total_copies": 8,
+    "available_copies": 6,
+    "shelf_location": "CL-02",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "1945-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0037",
+    "isbn13": "9780141439518",
+    "title": "Pride and Prejudice",
+    "authors": [
+      {
+        "author_id": "A0046",
+        "name": "Jane Austen"
+      }
+    ],
+    "genres": [
+      "Classics",
+      "Romance"
+    ],
+    "publisher": "T. Egerton",
+    "publication_year": 1813,
+    "language": "English",
+    "pages": 432,
+    "description": "A witty romantic comedy observing social manners, mistaken first impressions, and matrimonial ambition in Regency England.",
+    "tags": [
+      "romance",
+      "regency",
+      "satire"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "CL-03",
+    "avg_rating": 3.75,
+    "ratings_count": 4,
+    "created_at": "1813-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0038",
+    "isbn13": "9780141439662",
+    "title": "Sense and Sensibility",
+    "authors": [
+      {
+        "author_id": "A0046",
+        "name": "Jane Austen"
+      }
+    ],
+    "genres": [
+      "Classics",
+      "Romance"
+    ],
+    "publisher": "Thomas Egerton",
+    "publication_year": 1811,
+    "language": "English",
+    "pages": 409,
+    "description": "The contrasting emotional paths of two sisters navigating love, heartbreak, and financial vulnerability.",
+    "tags": [
+      "classic romance",
+      "sisters",
+      "social customs"
+    ],
+    "total_copies": 6,
+    "available_copies": 5,
+    "shelf_location": "CL-04",
+    "avg_rating": 3.5,
+    "ratings_count": 6,
+    "created_at": "1811-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0039",
+    "isbn13": "9780060935467",
+    "title": "To Kill a Mockingbird",
+    "authors": [
+      {
+        "author_id": "A0047",
+        "name": "Harper Lee"
+      }
+    ],
+    "genres": [
+      "Classics",
+      "Fiction"
+    ],
+    "publisher": "J. B. Lippincott & Co.",
+    "publication_year": 1960,
+    "language": "English",
+    "pages": 281,
+    "description": "A compassionate portrait of childhood innocence confronting deep-seated racial injustice in a small Alabama town.",
+    "tags": [
+      "justice",
+      "civil rights",
+      "pulitzer"
+    ],
+    "total_copies": 8,
+    "available_copies": 5,
+    "shelf_location": "CL-05",
+    "avg_rating": 5.0,
+    "ratings_count": 2,
+    "created_at": "1960-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0040",
+    "isbn13": "9780743273565",
+    "title": "The Great Gatsby",
+    "authors": [
+      {
+        "author_id": "A0048",
+        "name": "F. Scott Fitzgerald"
+      }
+    ],
+    "genres": [
+      "Classics",
+      "Fiction"
+    ],
+    "publisher": "Charles Scribner's Sons",
+    "publication_year": 1925,
+    "language": "English",
+    "pages": 180,
+    "description": "A sparkling yet tragic critique of the Jazz Age, excess, and unrequited ambition in Long Island society.",
+    "tags": [
+      "jazz age",
+      "american dream",
+      "tragedy"
+    ],
+    "total_copies": 8,
+    "available_copies": 6,
+    "shelf_location": "CL-06",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "1925-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0041",
+    "isbn13": "9780140449136",
+    "title": "Crime and Punishment",
+    "authors": [
+      {
+        "author_id": "A0049",
+        "name": "Fyodor Dostoevsky"
+      }
+    ],
+    "genres": [
+      "Classics",
+      "Philosophy"
+    ],
+    "publisher": "The Russian Messenger",
+    "publication_year": 1866,
+    "language": "English",
+    "pages": 671,
+    "description": "A profound psychological study of guilt, moral redemption, and existential suffering following a double murder.",
+    "tags": [
+      "psychological fiction",
+      "guilt",
+      "existentialism"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "CL-07",
+    "avg_rating": 3.0,
+    "ratings_count": 2,
+    "created_at": "1866-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0042",
+    "isbn13": "9780374528379",
+    "title": "The Brothers Karamazov",
+    "authors": [
+      {
+        "author_id": "A0049",
+        "name": "Fyodor Dostoevsky"
+      }
+    ],
+    "genres": [
+      "Classics",
+      "Philosophy"
+    ],
+    "publisher": "The Russian Messenger",
+    "publication_year": 1880,
+    "language": "English",
+    "pages": 796,
+    "description": "A philosophical titan probing faith, doubt, free will, and morality through the fiery trial of patricide.",
+    "tags": [
+      "theology",
+      "patricide",
+      "russian literature"
+    ],
+    "total_copies": 6,
+    "available_copies": 5,
+    "shelf_location": "CL-08",
+    "avg_rating": 2.67,
+    "ratings_count": 3,
+    "created_at": "1880-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0043",
+    "isbn13": "9780199232765",
+    "title": "War and Peace",
+    "authors": [
+      {
+        "author_id": "A0050",
+        "name": "Leo Tolstoy"
+      }
+    ],
+    "genres": [
+      "Classics",
+      "History"
+    ],
+    "publisher": "The Russian Messenger",
+    "publication_year": 1869,
+    "language": "English",
+    "pages": 1225,
+    "description": "A monumental epic weaving the lives of aristocratic families against Napoleon's invasion of Russia.",
+    "tags": [
+      "epic",
+      "napoleonic wars",
+      "tolstoy"
+    ],
+    "total_copies": 5,
+    "available_copies": 4,
+    "shelf_location": "CL-09",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "1869-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0044",
+    "isbn13": "9780143035008",
+    "title": "Anna Karenina",
+    "authors": [
+      {
+        "author_id": "A0050",
+        "name": "Leo Tolstoy"
+      }
+    ],
+    "genres": [
+      "Classics",
+      "Fiction"
+    ],
+    "publisher": "The Russian Messenger",
+    "publication_year": 1878,
+    "language": "English",
+    "pages": 864,
+    "description": "A tragic romance probing societal hypocrisy, passion, and personal salvation in nineteenth-century Imperial Russia.",
+    "tags": [
+      "tragedy",
+      "romance",
+      "society"
+    ],
+    "total_copies": 6,
+    "available_copies": 5,
+    "shelf_location": "CL-10",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "1878-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0045",
+    "isbn13": "9780141439556",
+    "title": "Wuthering Heights",
+    "authors": [
+      {
+        "author_id": "A0051",
+        "name": "Emily Brontë"
+      }
+    ],
+    "genres": [
+      "Classics",
+      "Fiction"
+    ],
+    "publisher": "Thomas Cautley Newby",
+    "publication_year": 1847,
+    "language": "English",
+    "pages": 416,
+    "description": "A haunting gothic tale of destructive passion and revenge unfolding across the desolate Yorkshire moors.",
+    "tags": [
+      "gothic",
+      "revenge",
+      "heathcliff"
+    ],
+    "total_copies": 6,
+    "available_copies": 4,
+    "shelf_location": "CL-11",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "1847-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0046",
+    "isbn13": "9780141441146",
+    "title": "Jane Eyre",
+    "authors": [
+      {
+        "author_id": "A0052",
+        "name": "Charlotte Brontë"
+      }
+    ],
+    "genres": [
+      "Classics",
+      "Romance"
+    ],
+    "publisher": "Smith, Elder & Co.",
+    "publication_year": 1847,
+    "language": "English",
+    "pages": 507,
+    "description": "The coming-of-age story of an orphan governess asserting her moral autonomy and love at Thornfield Hall.",
+    "tags": [
+      "victorian",
+      "gothic romance",
+      "independence"
+    ],
+    "total_copies": 7,
+    "available_copies": 5,
+    "shelf_location": "CL-12",
+    "avg_rating": 4.75,
+    "ratings_count": 4,
+    "created_at": "1847-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0047",
+    "isbn13": "9780142437247",
+    "title": "Moby-Dick",
+    "authors": [
+      {
+        "author_id": "A0053",
+        "name": "Herman Melville"
+      }
+    ],
+    "genres": [
+      "Classics",
+      "Fiction"
+    ],
+    "publisher": "Harper & Brothers",
+    "publication_year": 1851,
+    "language": "English",
+    "pages": 635,
+    "description": "Captain Ahab's monomaniacal voyage of vengeance against the titular albino sperm whale across wild oceans.",
+    "tags": [
+      "whaling",
+      "obsession",
+      "allegory"
+    ],
+    "total_copies": 5,
+    "available_copies": 3,
+    "shelf_location": "CL-13",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "1851-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0048",
+    "isbn13": "9780316769488",
+    "title": "The Catcher in the Rye",
+    "authors": [
+      {
+        "author_id": "A0054",
+        "name": "J.D. Salinger"
+      }
+    ],
+    "genres": [
+      "Classics",
+      "Fiction"
+    ],
+    "publisher": "Little, Brown and Company",
+    "publication_year": 1951,
+    "language": "English",
+    "pages": 234,
+    "description": "Holden Caulfield's cynical and vulnerable wanderings through New York City decrying adult phoniness.",
+    "tags": [
+      "alienation",
+      "adolescence",
+      "rebellion"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "CL-14",
+    "avg_rating": 5.0,
+    "ratings_count": 2,
+    "created_at": "1951-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0049",
+    "isbn13": "9780441172719",
+    "title": "Dune",
+    "authors": [
+      {
+        "author_id": "A0055",
+        "name": "Frank Herbert"
+      }
+    ],
+    "genres": [
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "publisher": "Chilton Books",
+    "publication_year": 1965,
+    "language": "English",
+    "pages": 412,
+    "description": "A sweeping space opera exploring ecology, messianic destiny, and planetary politics on the desert world Arrakis.",
+    "tags": [
+      "space opera",
+      "spice",
+      "ecology"
+    ],
+    "total_copies": 9,
+    "available_copies": 7,
+    "shelf_location": "SF-01",
+    "avg_rating": 3.5,
+    "ratings_count": 2,
+    "created_at": "1965-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0050",
+    "isbn13": "9780441172696",
+    "title": "Dune Messiah",
+    "authors": [
+      {
+        "author_id": "A0055",
+        "name": "Frank Herbert"
+      }
+    ],
+    "genres": [
+      "Sci-Fi"
+    ],
+    "publisher": "G. P. Putnam's Sons",
+    "publication_year": 1969,
+    "language": "English",
+    "pages": 256,
+    "description": "Paul Atreides faces the tragic unintended consequences of his interstellar religious jihad and political intrigue.",
+    "tags": [
+      "space opera",
+      "jihad",
+      "prescience"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "SF-02",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "1969-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0051",
+    "isbn13": "9780441104024",
+    "title": "Children of Dune",
+    "authors": [
+      {
+        "author_id": "A0055",
+        "name": "Frank Herbert"
+      }
+    ],
+    "genres": [
+      "Sci-Fi"
+    ],
+    "publisher": "G. P. Putnam's Sons",
+    "publication_year": 1976,
+    "language": "English",
+    "pages": 408,
+    "description": "The twin heirs of Paul Atreides struggle against ecological transformation and imperial regency.",
+    "tags": [
+      "golden path",
+      "arrakis",
+      "spice"
+    ],
+    "total_copies": 6,
+    "available_copies": 4,
+    "shelf_location": "SF-03",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "1976-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0052",
+    "isbn13": "9780553293357",
+    "title": "Foundation",
+    "authors": [
+      {
+        "author_id": "A0056",
+        "name": "Isaac Asimov"
+      }
+    ],
+    "genres": [
+      "Sci-Fi"
+    ],
+    "publisher": "Gnome Press",
+    "publication_year": 1951,
+    "language": "English",
+    "pages": 255,
+    "description": "Mathematician Hari Seldon creates psychohistory to preserve galactic knowledge and shorten thirty millennia of dark ages.",
+    "tags": [
+      "psychohistory",
+      "galactic empire",
+      "asimov"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "SF-04",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "1951-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0053",
+    "isbn13": "9780553293371",
+    "title": "Foundation and Empire",
+    "authors": [
+      {
+        "author_id": "A0056",
+        "name": "Isaac Asimov"
+      }
+    ],
+    "genres": [
+      "Sci-Fi"
+    ],
+    "publisher": "Gnome Press",
+    "publication_year": 1952,
+    "language": "English",
+    "pages": 247,
+    "description": "The emerging Foundation faces the remnants of the Empire and an unpredicted mutant warlord known as the Mule.",
+    "tags": [
+      "the mule",
+      "galactic empire",
+      "sci-fi classic"
+    ],
+    "total_copies": 6,
+    "available_copies": 4,
+    "shelf_location": "SF-05",
+    "avg_rating": 3.67,
+    "ratings_count": 3,
+    "created_at": "1952-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0054",
+    "isbn13": "9780553293364",
+    "title": "Second Foundation",
+    "authors": [
+      {
+        "author_id": "A0056",
+        "name": "Isaac Asimov"
+      }
+    ],
+    "genres": [
+      "Sci-Fi"
+    ],
+    "publisher": "Gnome Press",
+    "publication_year": 1953,
+    "language": "English",
+    "pages": 250,
+    "description": "A covert search unfolds across star systems to unmask the hidden mentalist guardians of Seldon's grand plan.",
+    "tags": [
+      "mentalics",
+      "asimov",
+      "trilogy"
+    ],
+    "total_copies": 6,
+    "available_copies": 4,
+    "shelf_location": "SF-06",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "1953-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0055",
+    "isbn13": "9780441569595",
+    "title": "Neuromancer",
+    "authors": [
+      {
+        "author_id": "A0057",
+        "name": "William Gibson"
+      }
+    ],
+    "genres": [
+      "Sci-Fi"
+    ],
+    "publisher": "Ace Books",
+    "publication_year": 1984,
+    "language": "English",
+    "pages": 271,
+    "description": "The seminal cyberpunk novel following washed-up console cowboy Case as he is hired for an impossible corporate cyberspace heist.",
+    "tags": [
+      "cyberpunk",
+      "cyberspace",
+      "ai"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "SF-07",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "1984-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0056",
+    "isbn13": "9780553380958",
+    "title": "Snow Crash",
+    "authors": [
+      {
+        "author_id": "A0058",
+        "name": "Neal Stephenson"
+      }
+    ],
+    "genres": [
+      "Sci-Fi"
+    ],
+    "publisher": "Bantam Books",
+    "publication_year": 1992,
+    "language": "English",
+    "pages": 440,
+    "description": "A high-octane cyberpunk satire tracking sword-wielding hacker Hiro Protagonist investigating a brain-altering digital narcotic.",
+    "tags": [
+      "metaverse",
+      "linguistics",
+      "cyberpunk"
+    ],
+    "total_copies": 6,
+    "available_copies": 4,
+    "shelf_location": "SF-08",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "1992-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0057",
+    "isbn13": "9780553283686",
+    "title": "Hyperion",
+    "authors": [
+      {
+        "author_id": "A0059",
+        "name": "Dan Simmons"
+      }
+    ],
+    "genres": [
+      "Sci-Fi"
+    ],
+    "publisher": "Doubleday",
+    "publication_year": 1989,
+    "language": "English",
+    "pages": 482,
+    "description": "Seven pilgrims travel to the mysterious Time Tombs and the dread entity known as the Shrike on the eve of galactic war.",
+    "tags": [
+      "shrike",
+      "pilgrimage",
+      "hugo award"
+    ],
+    "total_copies": 6,
+    "available_copies": 5,
+    "shelf_location": "SF-09",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "1989-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0058",
+    "isbn13": "9780441478125",
+    "title": "The Left Hand of Darkness",
+    "authors": [
+      {
+        "author_id": "A0060",
+        "name": "Ursula K. Le Guin"
+      }
+    ],
+    "genres": [
+      "Sci-Fi"
+    ],
+    "publisher": "Ace Books",
+    "publication_year": 1969,
+    "language": "English",
+    "pages": 304,
+    "description": "A human envoy travels to the icy world of Gethen whose inhabitants can choose and alter their gender identity.",
+    "tags": [
+      "gender",
+      "anthropology",
+      "hugo winner"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "SF-10",
+    "avg_rating": 4.0,
+    "ratings_count": 5,
+    "created_at": "1969-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0059",
+    "isbn13": "9780060512750",
+    "title": "The Dispossessed",
+    "authors": [
+      {
+        "author_id": "A0060",
+        "name": "Ursula K. Le Guin"
+      }
+    ],
+    "genres": [
+      "Sci-Fi",
+      "Philosophy"
+    ],
+    "publisher": "Harper & Row",
+    "publication_year": 1974,
+    "language": "English",
+    "pages": 387,
+    "description": "A theoretical physicist travels between an anarchist moon and an opulent capitalist planet seeking scientific synthesis.",
+    "tags": [
+      "anarchism",
+      "utopia",
+      "hugo award"
+    ],
+    "total_copies": 6,
+    "available_copies": 5,
+    "shelf_location": "SF-11",
+    "avg_rating": 3.5,
+    "ratings_count": 2,
+    "created_at": "1974-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0060",
+    "isbn13": "9780345404473",
+    "title": "Do Androids Dream of Electric Sheep?",
+    "authors": [
+      {
+        "author_id": "A0061",
+        "name": "Philip K. Dick"
+      }
+    ],
+    "genres": [
+      "Sci-Fi"
+    ],
+    "publisher": "Doubleday",
+    "publication_year": 1968,
+    "language": "English",
+    "pages": 210,
+    "description": "Bounty hunter Rick Deckard hunts rogue synthetic humans while pondering empathy, reality, and artificial life.",
+    "tags": [
+      "blade runner",
+      "androids",
+      "empathy"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "SF-12",
+    "avg_rating": 4.0,
+    "ratings_count": 2,
+    "created_at": "1968-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0061",
+    "isbn13": "9780547572291",
+    "title": "Ubik",
+    "authors": [
+      {
+        "author_id": "A0061",
+        "name": "Philip K. Dick"
+      }
+    ],
+    "genres": [
+      "Sci-Fi",
+      "Philosophy"
+    ],
+    "publisher": "Doubleday",
+    "publication_year": 1969,
+    "language": "English",
+    "pages": 202,
+    "description": "Corporate anti-psionics operatives find reality decaying around them after a fatal moon base explosion.",
+    "tags": [
+      "reality decay",
+      "psionics",
+      "mind bending"
+    ],
+    "total_copies": 5,
+    "available_copies": 4,
+    "shelf_location": "SF-13",
+    "avg_rating": 4.5,
+    "ratings_count": 4,
+    "created_at": "1969-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0062",
+    "isbn13": "9780765377067",
+    "title": "The Three-Body Problem",
+    "authors": [
+      {
+        "author_id": "A0062",
+        "name": "Cixin Liu"
+      }
+    ],
+    "genres": [
+      "Sci-Fi"
+    ],
+    "publisher": "Tor Books",
+    "publication_year": 2008,
+    "language": "English",
+    "pages": 390,
+    "description": "Humanity establishes contact with an alien civilization on a doomed planet, sparking global existential conflict.",
+    "tags": [
+      "first contact",
+      "hard sci-fi",
+      "hugo winner"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "SF-14",
+    "avg_rating": 4.0,
+    "ratings_count": 2,
+    "created_at": "2008-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0063",
+    "isbn13": "9780765377081",
+    "title": "The Dark Forest",
+    "authors": [
+      {
+        "author_id": "A0062",
+        "name": "Cixin Liu"
+      }
+    ],
+    "genres": [
+      "Sci-Fi"
+    ],
+    "publisher": "Tor Books",
+    "publication_year": 2008,
+    "language": "English",
+    "pages": 512,
+    "description": "Earth prepares for Trisolaran invasion under the chilling cosmological premise that the universe is a silent predator forest.",
+    "tags": [
+      "dark forest theory",
+      "fermi paradox",
+      "space warfare"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "SF-15",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "2008-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0064",
+    "isbn13": "9780547928227",
+    "title": "The Hobbit",
+    "authors": [
+      {
+        "author_id": "A0063",
+        "name": "J.R.R. Tolkien"
+      }
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "George Allen & Unwin",
+    "publication_year": 1937,
+    "language": "English",
+    "pages": 310,
+    "description": "Unassuming hobbit Bilbo Baggins is swept into an unexpected quest to reclaim a dwarven kingdom from the dragon Smaug.",
+    "tags": [
+      "middle-earth",
+      "dragons",
+      "quest"
+    ],
+    "total_copies": 9,
+    "available_copies": 8,
+    "shelf_location": "FA-01",
+    "avg_rating": 3.67,
+    "ratings_count": 3,
+    "created_at": "1937-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0065",
+    "isbn13": "9780547928210",
+    "title": "The Fellowship of the Ring",
+    "authors": [
+      {
+        "author_id": "A0063",
+        "name": "J.R.R. Tolkien"
+      }
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "George Allen & Unwin",
+    "publication_year": 1954,
+    "language": "English",
+    "pages": 423,
+    "description": "Frodo Baggins inherits the One Ring of Sauron and sets out with a diverse fellowship to cast it into Mount Doom.",
+    "tags": [
+      "one ring",
+      "fellowship",
+      "middle-earth"
+    ],
+    "total_copies": 9,
+    "available_copies": 7,
+    "shelf_location": "FA-02",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "1954-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0066",
+    "isbn13": "9780547928203",
+    "title": "The Two Towers",
+    "authors": [
+      {
+        "author_id": "A0063",
+        "name": "J.R.R. Tolkien"
+      }
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "George Allen & Unwin",
+    "publication_year": 1954,
+    "language": "English",
+    "pages": 352,
+    "description": "The fellowship splinters across Middle-earth as war engulfs Rohan and Frodo guided by Gollum nears Mordor.",
+    "tags": [
+      "rohan",
+      "gollum",
+      "middle-earth"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "FA-03",
+    "avg_rating": 4.33,
+    "ratings_count": 6,
+    "created_at": "1954-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0067",
+    "isbn13": "9780547928197",
+    "title": "The Return of the King",
+    "authors": [
+      {
+        "author_id": "A0063",
+        "name": "J.R.R. Tolkien"
+      }
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "George Allen & Unwin",
+    "publication_year": 1955,
+    "language": "English",
+    "pages": 416,
+    "description": "The grand climax of the War of the Ring with Aragorn claiming Gondor's crown and Mount Doom erupting.",
+    "tags": [
+      "aragorn",
+      "gondor",
+      "epic fantasy"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "FA-04",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "1955-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0068",
+    "isbn13": "9780553103540",
+    "title": "A Game of Thrones",
+    "authors": [
+      {
+        "author_id": "A0064",
+        "name": "George R.R. Martin"
+      }
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "Bantam Spectra",
+    "publication_year": 1996,
+    "language": "English",
+    "pages": 694,
+    "description": "Noble houses vie for political supremacy in Westeros while supernatural winter perils stir north of the Wall.",
+    "tags": [
+      "westeros",
+      "political fantasy",
+      "iron throne"
+    ],
+    "total_copies": 9,
+    "available_copies": 9,
+    "shelf_location": "FA-05",
+    "avg_rating": 5.0,
+    "ratings_count": 2,
+    "created_at": "1996-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0069",
+    "isbn13": "9780553108033",
+    "title": "A Clash of Kings",
+    "authors": [
+      {
+        "author_id": "A0064",
+        "name": "George R.R. Martin"
+      }
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "Bantam Spectra",
+    "publication_year": 1998,
+    "language": "English",
+    "pages": 768,
+    "description": "Five rival kings contest the Iron Throne in a bloody civil war culminating in the assault on King's Landing.",
+    "tags": [
+      "civil war",
+      "westeros",
+      "blackwater"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "FA-06",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "1998-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0070",
+    "isbn13": "9780553106633",
+    "title": "A Storm of Swords",
+    "authors": [
+      {
+        "author_id": "A0064",
+        "name": "George R.R. Martin"
+      }
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "Bantam Spectra",
+    "publication_year": 2000,
+    "language": "English",
+    "pages": 973,
+    "description": "Betrayals, royal assassinations, and shocking massacres transform the balance of power across the Seven Kingdoms.",
+    "tags": [
+      "red wedding",
+      "epic fantasy",
+      "grrm"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "FA-07",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2000-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0071",
+    "isbn13": "9780765326355",
+    "title": "The Way of Kings",
+    "authors": [
+      {
+        "author_id": "A0065",
+        "name": "Brandon Sanderson"
+      }
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "Tor Books",
+    "publication_year": 2010,
+    "language": "English",
+    "pages": 1007,
+    "description": "On the tempest-ravaged world of Roshar, an enslaved bridge leader, a noble general, and a scholar uncover Radiant magic.",
+    "tags": [
+      "cosmere",
+      "stormlight archive",
+      "shardblade"
+    ],
+    "total_copies": 8,
+    "available_copies": 6,
+    "shelf_location": "FA-08",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2010-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0072",
+    "isbn13": "9780765326362",
+    "title": "Words of Radiance",
+    "authors": [
+      {
+        "author_id": "A0065",
+        "name": "Brandon Sanderson"
+      }
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "Tor Books",
+    "publication_year": 2014,
+    "language": "English",
+    "pages": 1087,
+    "description": "Ancient Knight Radiant orders reform to battle the Everstorm as Kaladin masters the powers of Windrunners.",
+    "tags": [
+      "stormlight archive",
+      "spren",
+      "high fantasy"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "FA-09",
+    "avg_rating": 3.0,
+    "ratings_count": 1,
+    "created_at": "2014-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0073",
+    "isbn13": "9780765311788",
+    "title": "Mistborn: The Final Empire",
+    "authors": [
+      {
+        "author_id": "A0065",
+        "name": "Brandon Sanderson"
+      }
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "Tor Books",
+    "publication_year": 2006,
+    "language": "English",
+    "pages": 541,
+    "description": "In an ash-blanketed world ruled by an immortal tyrant, a street urchin learns allomantic metal magic to lead a revolution.",
+    "tags": [
+      "allomancy",
+      "heist",
+      "cosmere"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "FA-10",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "2006-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0074",
+    "isbn13": "9780765316882",
+    "title": "The Well of Ascension",
+    "authors": [
+      {
+        "author_id": "A0065",
+        "name": "Brandon Sanderson"
+      }
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "Tor Books",
+    "publication_year": 2007,
+    "language": "English",
+    "pages": 590,
+    "description": "Having toppled the Lord Ruler, Vin and Elend struggle to govern a besieged city and decipher an ominous prophecy.",
+    "tags": [
+      "mistborn",
+      "political fantasy",
+      "cosmere"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "FA-11",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "2007-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0075",
+    "isbn13": "9780756404741",
+    "title": "The Name of the Wind",
+    "authors": [
+      {
+        "author_id": "A0066",
+        "name": "Patrick Rothfuss"
+      }
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "DAW Books",
+    "publication_year": 2007,
+    "language": "English",
+    "pages": 662,
+    "description": "The notorious magician and musician Kvothe recounts his impoverished childhood, university studies, and quest for the Chandrian.",
+    "tags": [
+      "kvothe",
+      "magic university",
+      "lyrical fantasy"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "FA-12",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2007-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0076",
+    "isbn13": "9780756407919",
+    "title": "The Wise Man's Fear",
+    "authors": [
+      {
+        "author_id": "A0066",
+        "name": "Patrick Rothfuss"
+      }
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "publisher": "DAW Books",
+    "publication_year": 2011,
+    "language": "English",
+    "pages": 994,
+    "description": "Kvothe departs the university to navigate courtly intrigues in Severen, journey with mercenaries, and train with the Adem.",
+    "tags": [
+      "felurian",
+      "ademre",
+      "kingkiller"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "FA-13",
+    "avg_rating": 4.0,
+    "ratings_count": 2,
+    "created_at": "2011-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0077",
+    "isbn13": "9780060853983",
+    "title": "Good Omens",
+    "authors": [
+      {
+        "author_id": "A0067",
+        "name": "Neil Gaiman"
+      },
+      {
+        "author_id": "A0068",
+        "name": "Terry Pratchett"
+      }
+    ],
+    "genres": [
+      "Fantasy",
+      "Fiction"
+    ],
+    "publisher": "Gollancz",
+    "publication_year": 1990,
+    "language": "English",
+    "pages": 412,
+    "description": "An angel and a demon who enjoy comfortable modern Earth conspire to avert the Apocalypse after misplacing the Antichrist.",
+    "tags": [
+      "comedy",
+      "apocalypse",
+      "pratchett gaiman"
+    ],
+    "total_copies": 8,
+    "available_copies": 6,
+    "shelf_location": "FA-14",
+    "avg_rating": 4.0,
+    "ratings_count": 2,
+    "created_at": "1990-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0078",
+    "isbn13": "9780140437713",
+    "title": "The Adventures of Sherlock Holmes",
+    "authors": [
+      {
+        "author_id": "A0069",
+        "name": "Arthur Conan Doyle"
+      }
+    ],
+    "genres": [
+      "Mystery",
+      "Classics"
+    ],
+    "publisher": "George Newnes",
+    "publication_year": 1892,
+    "language": "English",
+    "pages": 307,
+    "description": "Twelve quintessential Victorian mystery cases showcasing the dazzling deductive brilliance of Sherlock Holmes and Dr. Watson.",
+    "tags": [
+      "sherlock holmes",
+      "deduction",
+      "baker street"
+    ],
+    "total_copies": 8,
+    "available_copies": 6,
+    "shelf_location": "MY-01",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "1892-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0079",
+    "isbn13": "9780141078601",
+    "title": "The Hound of the Baskervilles",
+    "authors": [
+      {
+        "author_id": "A0069",
+        "name": "Arthur Conan Doyle"
+      }
+    ],
+    "genres": [
+      "Mystery",
+      "Classics"
+    ],
+    "publisher": "George Newnes",
+    "publication_year": 1902,
+    "language": "English",
+    "pages": 256,
+    "description": "Holmes and Watson confront an ancestral spectral beast terrorizing an aristocratic heir across the Dartmoor bogs.",
+    "tags": [
+      "spectral hound",
+      "dartmoor",
+      "gothic mystery"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "MY-02",
+    "avg_rating": 3.5,
+    "ratings_count": 2,
+    "created_at": "1902-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0080",
+    "isbn13": "9780140439083",
+    "title": "A Study in Scarlet",
+    "authors": [
+      {
+        "author_id": "A0069",
+        "name": "Arthur Conan Doyle"
+      }
+    ],
+    "genres": [
+      "Mystery",
+      "Classics"
+    ],
+    "publisher": "Ward Lock & Co.",
+    "publication_year": 1887,
+    "language": "English",
+    "pages": 145,
+    "description": "The very first meeting of Sherlock Holmes and Dr. John Watson leading to the resolution of an American revenge murder.",
+    "tags": [
+      "first case",
+      "origin",
+      "london"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "MY-03",
+    "avg_rating": 5.0,
+    "ratings_count": 2,
+    "created_at": "1887-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0081",
+    "isbn13": "9780062073488",
+    "title": "And Then There Were None",
+    "authors": [
+      {
+        "author_id": "A0070",
+        "name": "Agatha Christie"
+      }
+    ],
+    "genres": [
+      "Mystery"
+    ],
+    "publisher": "Collins Crime Club",
+    "publication_year": 1939,
+    "language": "English",
+    "pages": 272,
+    "description": "Ten strangers trapped on an isolated island are eliminated one by one in accordance with a sinister nursery rhyme.",
+    "tags": [
+      "locked room",
+      "island mystery",
+      "agatha christie"
+    ],
+    "total_copies": 9,
+    "available_copies": 9,
+    "shelf_location": "MY-04",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "1939-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0082",
+    "isbn13": "9780062073563",
+    "title": "The Murder of Roger Ackroyd",
+    "authors": [
+      {
+        "author_id": "A0070",
+        "name": "Agatha Christie"
+      }
+    ],
+    "genres": [
+      "Mystery"
+    ],
+    "publisher": "Collins Crime Club",
+    "publication_year": 1926,
+    "language": "English",
+    "pages": 312,
+    "description": "Hercule Poirot investigates a wealthy village squire's stabbing with one of the most celebrated twists in detective history.",
+    "tags": [
+      "hercule poirot",
+      "plot twist",
+      "classic whodunit"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "MY-05",
+    "avg_rating": 2.5,
+    "ratings_count": 2,
+    "created_at": "1926-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0083",
+    "isbn13": "9780062073495",
+    "title": "Murder on the Orient Express",
+    "authors": [
+      {
+        "author_id": "A0070",
+        "name": "Agatha Christie"
+      }
+    ],
+    "genres": [
+      "Mystery"
+    ],
+    "publisher": "Collins Crime Club",
+    "publication_year": 1934,
+    "language": "English",
+    "pages": 274,
+    "description": "When an American passenger is murdered on a snowbound luxury train, Poirot unmasks a web of interconnected suspects.",
+    "tags": [
+      "orient express",
+      "poirot",
+      "train mystery"
+    ],
+    "total_copies": 9,
+    "available_copies": 8,
+    "shelf_location": "MY-06",
+    "avg_rating": 3.8,
+    "ratings_count": 5,
+    "created_at": "1934-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0084",
+    "isbn13": "9780062073556",
+    "title": "Death on the Nile",
+    "authors": [
+      {
+        "author_id": "A0070",
+        "name": "Agatha Christie"
+      }
+    ],
+    "genres": [
+      "Mystery"
+    ],
+    "publisher": "Collins Crime Club",
+    "publication_year": 1937,
+    "language": "English",
+    "pages": 288,
+    "description": "A tranquil luxury steamboat cruise through Egypt turns murderous when an heiress is shot through the head.",
+    "tags": [
+      "egypt",
+      "poirot",
+      "passion and murder"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "MY-07",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "1937-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0085",
+    "isbn13": "9780394758282",
+    "title": "The Big Sleep",
+    "authors": [
+      {
+        "author_id": "A0071",
+        "name": "Raymond Chandler"
+      }
+    ],
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "publication_year": 1939,
+    "language": "English",
+    "pages": 231,
+    "description": "Hard-boiled private investigator Philip Marlowe enters Los Angeles's criminal underworld of blackmail and family corruption.",
+    "tags": [
+      "hardboiled",
+      "noir",
+      "philip marlowe"
+    ],
+    "total_copies": 6,
+    "available_copies": 4,
+    "shelf_location": "MY-08",
+    "avg_rating": 5.0,
+    "ratings_count": 2,
+    "created_at": "1939-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0086",
+    "isbn13": "9780394757650",
+    "title": "Farewell, My Lovely",
+    "authors": [
+      {
+        "author_id": "A0071",
+        "name": "Raymond Chandler"
+      }
+    ],
+    "genres": [
+      "Mystery"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "publication_year": 1940,
+    "language": "English",
+    "pages": 292,
+    "description": "Philip Marlowe is drawn into murder and corruption while searching for a violent ex-convict's missing girlfriend.",
+    "tags": [
+      "noir",
+      "los angeles",
+      "detective"
+    ],
+    "total_copies": 5,
+    "available_copies": 5,
+    "shelf_location": "MY-09",
+    "avg_rating": 2.5,
+    "ratings_count": 2,
+    "created_at": "1940-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0087",
+    "isbn13": "9780679722649",
+    "title": "The Maltese Falcon",
+    "authors": [
+      {
+        "author_id": "A0072",
+        "name": "Dashiell Hammett"
+      }
+    ],
+    "genres": [
+      "Mystery"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "publication_year": 1930,
+    "language": "English",
+    "pages": 213,
+    "description": "San Francisco private eye Sam Spade deals with eccentric criminals all seeking an invaluable jewel-encrusted statuette.",
+    "tags": [
+      "sam spade",
+      "noir",
+      "classic detective"
+    ],
+    "total_copies": 6,
+    "available_copies": 6,
+    "shelf_location": "MY-10",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "1930-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0088",
+    "isbn13": "9780307588364",
+    "title": "Gone Girl",
+    "authors": [
+      {
+        "author_id": "A0073",
+        "name": "Gillian Flynn"
+      }
+    ],
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "publisher": "Crown Publishing",
+    "publication_year": 2012,
+    "language": "English",
+    "pages": 422,
+    "description": "A razor-sharp psychological mystery tracking the media circus and deception surrounding a wife's sudden disappearance.",
+    "tags": [
+      "unreliable narrator",
+      "marriage",
+      "psychological thriller"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "MY-11",
+    "avg_rating": 4.67,
+    "ratings_count": 3,
+    "created_at": "2012-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0089",
+    "isbn13": "9780307454546",
+    "title": "The Girl with the Dragon Tattoo",
+    "authors": [
+      {
+        "author_id": "A0074",
+        "name": "Stieg Larsson"
+      }
+    ],
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "publisher": "Norstedts Förlag",
+    "publication_year": 2005,
+    "language": "English",
+    "pages": 465,
+    "description": "Disgraced journalist Mikael Blomkvist and hacker Lisbeth Salander probe the dark decades-old disappearance of an industrialist's niece.",
+    "tags": [
+      "nordic noir",
+      "lisbeth salander",
+      "investigation"
+    ],
+    "total_copies": 8,
+    "available_copies": 1,
+    "shelf_location": "MY-12",
+    "avg_rating": 4.25,
+    "ratings_count": 4,
+    "created_at": "2005-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0090",
+    "isbn13": "9780385504201",
+    "title": "The Da Vinci Code",
+    "authors": [
+      {
+        "author_id": "A0075",
+        "name": "Dan Brown"
+      }
+    ],
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "publisher": "Doubleday",
+    "publication_year": 2003,
+    "language": "English",
+    "pages": 454,
+    "description": "Symbologist Robert Langdon races across European landmarks to decipher codes hidden within Leonardo da Vinci's art.",
+    "tags": [
+      "symbology",
+      "conspiracy",
+      "holy grail"
+    ],
+    "total_copies": 9,
+    "available_copies": 9,
+    "shelf_location": "TH-01",
+    "avg_rating": 4.0,
+    "ratings_count": 3,
+    "created_at": "2003-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0091",
+    "isbn13": "9780671027360",
+    "title": "Angels & Demons",
+    "authors": [
+      {
+        "author_id": "A0075",
+        "name": "Dan Brown"
+      }
+    ],
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "publisher": "Pocket Books",
+    "publication_year": 2000,
+    "language": "English",
+    "pages": 615,
+    "description": "An ancient brotherhood resurrects to wage a deadly antimatter terrorist vendetta against the Vatican during a papal conclave.",
+    "tags": [
+      "illuminati",
+      "vatican",
+      "science vs religion"
+    ],
+    "total_copies": 8,
+    "available_copies": 6,
+    "shelf_location": "TH-02",
+    "avg_rating": 4.33,
+    "ratings_count": 6,
+    "created_at": "2000-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0092",
+    "isbn13": "9780385537858",
+    "title": "Inferno",
+    "authors": [
+      {
+        "author_id": "A0075",
+        "name": "Dan Brown"
+      }
+    ],
+    "genres": [
+      "Thriller"
+    ],
+    "publisher": "Doubleday",
+    "publication_year": 2013,
+    "language": "English",
+    "pages": 463,
+    "description": "Awakening with amnesia in Florence, Robert Langdon follows Dante's verses to thwart a catastrophic genetic plague.",
+    "tags": [
+      "dante",
+      "overpopulation",
+      "florence"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "TH-03",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2013-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0093",
+    "isbn13": "9780312022822",
+    "title": "The Silence of the Lambs",
+    "authors": [
+      {
+        "author_id": "A0076",
+        "name": "Thomas Harris"
+      }
+    ],
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "publisher": "St. Martin's Press",
+    "publication_year": 1988,
+    "language": "English",
+    "pages": 352,
+    "description": "FBI trainee Clarice Starling interviews imprisoned cannibal psychiatrist Dr. Hannibal Lecter to profile an active serial killer.",
+    "tags": [
+      "hannibal lecter",
+      "fbi",
+      "psychological horror"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "TH-04",
+    "avg_rating": 5.0,
+    "ratings_count": 2,
+    "created_at": "1988-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0094",
+    "isbn13": "9780425228227",
+    "title": "Red Dragon",
+    "authors": [
+      {
+        "author_id": "A0076",
+        "name": "Thomas Harris"
+      }
+    ],
+    "genres": [
+      "Thriller"
+    ],
+    "publisher": "G. P. Putnam's Sons",
+    "publication_year": 1981,
+    "language": "English",
+    "pages": 348,
+    "description": "Empathic investigator Will Graham is pulled out of retirement to track the Tooth Fairy killer with Lecter's cryptic help.",
+    "tags": [
+      "criminal profiling",
+      "hannibal",
+      "dark thriller"
+    ],
+    "total_copies": 6,
+    "available_copies": 6,
+    "shelf_location": "TH-05",
+    "avg_rating": 4.0,
+    "ratings_count": 2,
+    "created_at": "1981-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0095",
+    "isbn13": "9780553260113",
+    "title": "The Bourne Identity",
+    "authors": [
+      {
+        "author_id": "A0077",
+        "name": "Robert Ludlum"
+      }
+    ],
+    "genres": [
+      "Thriller"
+    ],
+    "publisher": "Richard Marek Publishers",
+    "publication_year": 1980,
+    "language": "English",
+    "pages": 523,
+    "description": "An amnesiac man pulled from the Mediterranean discovers he possesses lethal combat reflexes and is hunted by assassins.",
+    "tags": [
+      "jason bourne",
+      "espionage",
+      "assassins"
+    ],
+    "total_copies": 7,
+    "available_copies": 5,
+    "shelf_location": "TH-06",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "1980-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0096",
+    "isbn13": "9780870212857",
+    "title": "The Hunt for Red October",
+    "authors": [
+      {
+        "author_id": "A0078",
+        "name": "Tom Clancy"
+      }
+    ],
+    "genres": [
+      "Thriller"
+    ],
+    "publisher": "Naval Institute Press",
+    "publication_year": 1984,
+    "language": "English",
+    "pages": 387,
+    "description": "A rogue Soviet nuclear submarine captain attempts defection while CIA analyst Jack Ryan races to avert World War III.",
+    "tags": [
+      "cold war",
+      "submarines",
+      "military techno-thriller"
+    ],
+    "total_copies": 6,
+    "available_copies": 6,
+    "shelf_location": "TH-07",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "1984-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0097",
+    "isbn13": "9780425091463",
+    "title": "Patriot Games",
+    "authors": [
+      {
+        "author_id": "A0078",
+        "name": "Tom Clancy"
+      }
+    ],
+    "genres": [
+      "Thriller"
+    ],
+    "publisher": "G. P. Putnam's Sons",
+    "publication_year": 1987,
+    "language": "English",
+    "pages": 540,
+    "description": "Jack Ryan intervenes in a terrorist attack in London and becomes the retaliatory target of a ruthless faction.",
+    "tags": [
+      "jack ryan",
+      "terrorism",
+      "suspense"
+    ],
+    "total_copies": 6,
+    "available_copies": 6,
+    "shelf_location": "TH-08",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "1987-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0098",
+    "isbn13": "9780060590086",
+    "title": "Shutter Island",
+    "authors": [
+      {
+        "author_id": "A0079",
+        "name": "Dennis Lehane"
+      }
+    ],
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "publisher": "William Morrow",
+    "publication_year": 2003,
+    "language": "English",
+    "pages": 369,
+    "description": "U.S. Marshal Teddy Daniels investigates a patient's disappearance from a fortress-like hospital for the criminally insane.",
+    "tags": [
+      "asylum",
+      "mind games",
+      "plot twist"
+    ],
+    "total_copies": 7,
+    "available_copies": 4,
+    "shelf_location": "TH-09",
+    "avg_rating": 4.0,
+    "ratings_count": 2,
+    "created_at": "2003-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0099",
+    "isbn13": "9780670813643",
+    "title": "Misery",
+    "authors": [
+      {
+        "author_id": "A0080",
+        "name": "Stephen King"
+      }
+    ],
+    "genres": [
+      "Thriller",
+      "Fiction"
+    ],
+    "publisher": "Viking Press",
+    "publication_year": 1987,
+    "language": "English",
+    "pages": 310,
+    "description": "A successful novelist is rescued from a car crash and held captive by an obsessively deranged former nurse.",
+    "tags": [
+      "obsession",
+      "captivity",
+      "stephen king"
+    ],
+    "total_copies": 7,
+    "available_copies": 3,
+    "shelf_location": "TH-10",
+    "avg_rating": 3.67,
+    "ratings_count": 3,
+    "created_at": "1987-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0100",
+    "isbn13": "9780140449334",
+    "title": "Meditations",
+    "authors": [
+      {
+        "author_id": "A0081",
+        "name": "Marcus Aurelius"
+      }
+    ],
+    "genres": [
+      "Philosophy",
+      "Classics"
+    ],
+    "publisher": "Penguin Classics",
+    "publication_year": 180,
+    "language": "English",
+    "pages": 256,
+    "description": "The private personal journal of a Roman emperor outlining practical Stoic wisdom, duty, and emotional resilience.",
+    "tags": [
+      "stoicism",
+      "duty",
+      "ancient wisdom"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "PH-01",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "180-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0101",
+    "isbn13": "9780140442106",
+    "title": "Letters from a Stoic",
+    "authors": [
+      {
+        "author_id": "A0082",
+        "name": "Seneca"
+      }
+    ],
+    "genres": [
+      "Philosophy",
+      "Classics"
+    ],
+    "publisher": "Penguin Classics",
+    "publication_year": 65,
+    "language": "English",
+    "pages": 256,
+    "description": "Engaging epistolary reflections offering timeless counsel on friendship, grief, wealth, and living meaningfully.",
+    "tags": [
+      "stoicism",
+      "seneca",
+      "ethics"
+    ],
+    "total_copies": 7,
+    "available_copies": 5,
+    "shelf_location": "PH-02",
+    "avg_rating": 4.67,
+    "ratings_count": 3,
+    "created_at": "65-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0102",
+    "isbn13": "9780140455113",
+    "title": "The Republic",
+    "authors": [
+      {
+        "author_id": "A0083",
+        "name": "Plato"
+      }
+    ],
+    "genres": [
+      "Philosophy",
+      "Classics"
+    ],
+    "publisher": "Penguin Classics",
+    "publication_year": -375,
+    "language": "English",
+    "pages": 448,
+    "description": "Socrates and his interlocutors examine justice, philosopher kings, and the Allegory of the Cave in an ideal state.",
+    "tags": [
+      "justice",
+      "allegory of the cave",
+      "political philosophy"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "PH-03",
+    "avg_rating": 3.0,
+    "ratings_count": 2,
+    "created_at": "-375-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0103",
+    "isbn13": "9780199213610",
+    "title": "Nicomachean Ethics",
+    "authors": [
+      {
+        "author_id": "A0084",
+        "name": "Aristotle"
+      }
+    ],
+    "genres": [
+      "Philosophy",
+      "Classics"
+    ],
+    "publisher": "Oxford World's Classics",
+    "publication_year": -340,
+    "language": "English",
+    "pages": 336,
+    "description": "A treatise exploring eudaimonia (human flourishing) through the cultivate of practical virtues and the golden mean.",
+    "tags": [
+      "virtue ethics",
+      "eudaimonia",
+      "golden mean"
+    ],
+    "total_copies": 6,
+    "available_copies": 4,
+    "shelf_location": "PH-04",
+    "avg_rating": 4.0,
+    "ratings_count": 3,
+    "created_at": "-340-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0104",
+    "isbn13": "9780140449235",
+    "title": "Beyond Good and Evil",
+    "authors": [
+      {
+        "author_id": "A0085",
+        "name": "Friedrich Nietzsche"
+      }
+    ],
+    "genres": [
+      "Philosophy"
+    ],
+    "publisher": "Penguin Classics",
+    "publication_year": 1886,
+    "language": "English",
+    "pages": 240,
+    "description": "A polemical attack on traditional morality advocating intellectual courage, will to power, and perspectivism.",
+    "tags": [
+      "nietzsche",
+      "will to power",
+      "morality"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "PH-05",
+    "avg_rating": 3.67,
+    "ratings_count": 3,
+    "created_at": "1886-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0105",
+    "isbn13": "9780140441185",
+    "title": "Thus Spoke Zarathustra",
+    "authors": [
+      {
+        "author_id": "A0085",
+        "name": "Friedrich Nietzsche"
+      }
+    ],
+    "genres": [
+      "Philosophy"
+    ],
+    "publisher": "Penguin Classics",
+    "publication_year": 1883,
+    "language": "English",
+    "pages": 352,
+    "description": "A poetic philosophical discourse presenting the concepts of the Übermensch, eternal recurrence, and self-overcoming.",
+    "tags": [
+      "ubermensch",
+      "eternal recurrence",
+      "zarathustra"
+    ],
+    "total_copies": 6,
+    "available_copies": 6,
+    "shelf_location": "PH-06",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "1883-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0106",
+    "isbn13": "9780141182001",
+    "title": "The Myth of Sisyphus",
+    "authors": [
+      {
+        "author_id": "A0086",
+        "name": "Albert Camus"
+      }
+    ],
+    "genres": [
+      "Philosophy"
+    ],
+    "publisher": "Hamish Hamilton",
+    "publication_year": 1942,
+    "language": "English",
+    "pages": 212,
+    "description": "An essential existential essay confronting the absurd and arguing for lucid defiance and embracing life passionately.",
+    "tags": [
+      "absurdism",
+      "camus",
+      "existentialism"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "PH-07",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "1942-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0107",
+    "isbn13": "9780679720201",
+    "title": "The Stranger",
+    "authors": [
+      {
+        "author_id": "A0086",
+        "name": "Albert Camus"
+      }
+    ],
+    "genres": [
+      "Philosophy",
+      "Fiction"
+    ],
+    "publisher": "Hamish Hamilton",
+    "publication_year": 1942,
+    "language": "English",
+    "pages": 123,
+    "description": "Meursault's emotional detachment during his mother's funeral and an impulsive beach killing exposes societal absurdities.",
+    "tags": [
+      "absurdism",
+      "existential literature",
+      "classic"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "PH-08",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "1942-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0108",
+    "isbn13": "9780521657297",
+    "title": "Critique of Pure Reason",
+    "authors": [
+      {
+        "author_id": "A0087",
+        "name": "Immanuel Kant"
+      }
+    ],
+    "genres": [
+      "Philosophy"
+    ],
+    "publisher": "Cambridge University Press",
+    "publication_year": 1781,
+    "language": "English",
+    "pages": 784,
+    "description": "A monumental investigation into the limits of human knowledge, synthetic a priori judgments, and epistemology.",
+    "tags": [
+      "epistemology",
+      "kant",
+      "metaphysics"
+    ],
+    "total_copies": 5,
+    "available_copies": 5,
+    "shelf_location": "PH-09",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "1781-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0109",
+    "isbn13": "9780791426784",
+    "title": "Being and Time",
+    "authors": [
+      {
+        "author_id": "A0088",
+        "name": "Martin Heidegger"
+      }
+    ],
+    "genres": [
+      "Philosophy"
+    ],
+    "publisher": "State University of New York Press",
+    "publication_year": 1927,
+    "language": "English",
+    "pages": 589,
+    "description": "A groundbreaking phenomenological inquiry analyzing human existence (Dasein), temporality, and authentic being.",
+    "tags": [
+      "phenomenology",
+      "dasein",
+      "ontology"
+    ],
+    "total_copies": 4,
+    "available_copies": 3,
+    "shelf_location": "PH-10",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "1927-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0110",
+    "isbn13": "9780807014295",
+    "title": "Man's Search for Meaning",
+    "authors": [
+      {
+        "author_id": "A0089",
+        "name": "Viktor E. Frankl"
+      }
+    ],
+    "genres": [
+      "Philosophy",
+      "Biography",
+      "Self-Help"
+    ],
+    "publisher": "Beacon Press",
+    "publication_year": 1946,
+    "language": "English",
+    "pages": 165,
+    "description": "A psychiatrist's harrowing survival in Nazi concentration camps leading to logotherapy and finding purpose through suffering.",
+    "tags": [
+      "logotherapy",
+      "meaning",
+      "resilience"
+    ],
+    "total_copies": 9,
+    "available_copies": 7,
+    "shelf_location": "PH-11",
+    "avg_rating": 4.0,
+    "ratings_count": 6,
+    "created_at": "1946-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0111",
+    "isbn13": "9780195014761",
+    "title": "The Art of War",
+    "authors": [
+      {
+        "author_id": "A0090",
+        "name": "Sun Tzu"
+      }
+    ],
+    "genres": [
+      "Philosophy",
+      "History"
+    ],
+    "publisher": "Oxford University Press",
+    "publication_year": -500,
+    "language": "English",
+    "pages": 128,
+    "description": "The quintessential ancient military treatise detailing strategy, deception, adaptability, and psychological warfare.",
+    "tags": [
+      "strategy",
+      "military wisdom",
+      "leadership"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "PH-12",
+    "avg_rating": 1.0,
+    "ratings_count": 1,
+    "created_at": "-500-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0112",
+    "isbn13": "9780553380163",
+    "title": "A Brief History of Time",
+    "authors": [
+      {
+        "author_id": "A0091",
+        "name": "Stephen Hawking"
+      }
+    ],
+    "genres": [
+      "Science"
+    ],
+    "publisher": "Bantam Books",
+    "publication_year": 1988,
+    "language": "English",
+    "pages": 256,
+    "description": "A landmark cosmological overview of black holes, general relativity, quantum mechanics, and the origins of our universe.",
+    "tags": [
+      "cosmology",
+      "black holes",
+      "physics"
+    ],
+    "total_copies": 8,
+    "available_copies": 6,
+    "shelf_location": "SC-01",
+    "avg_rating": 5.0,
+    "ratings_count": 2,
+    "created_at": "1988-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0113",
+    "isbn13": "9780553805307",
+    "title": "The Grand Design",
+    "authors": [
+      {
+        "author_id": "A0091",
+        "name": "Stephen Hawking"
+      },
+      {
+        "author_id": "A0092",
+        "name": "Leonard Mlodinow"
+      }
+    ],
+    "genres": [
+      "Science"
+    ],
+    "publisher": "Bantam Books",
+    "publication_year": 2010,
+    "language": "English",
+    "pages": 208,
+    "description": "An engaging dive into M-theory, model-dependent realism, and the multiverse explaining why our universe exists.",
+    "tags": [
+      "quantum physics",
+      "m-theory",
+      "multiverse"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "SC-02",
+    "avg_rating": 4.33,
+    "ratings_count": 3,
+    "created_at": "2010-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0114",
+    "isbn13": "9780345539434",
+    "title": "Cosmos",
+    "authors": [
+      {
+        "author_id": "A0093",
+        "name": "Carl Sagan"
+      }
+    ],
+    "genres": [
+      "Science"
+    ],
+    "publisher": "Random House",
+    "publication_year": 1980,
+    "language": "English",
+    "pages": 365,
+    "description": "A lyrical celebration of the cosmos tracing fifteen billion years of cosmic evolution and human civilization.",
+    "tags": [
+      "astronomy",
+      "space exploration",
+      "wonder"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "SC-03",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "1980-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0115",
+    "isbn13": "9780345409461",
+    "title": "The Demon-Haunted World: Science as a Candle in the Dark",
+    "authors": [
+      {
+        "author_id": "A0093",
+        "name": "Carl Sagan"
+      }
+    ],
+    "genres": [
+      "Science",
+      "Philosophy"
+    ],
+    "publisher": "Random House",
+    "publication_year": 1995,
+    "language": "English",
+    "pages": 457,
+    "description": "A passionate defense of scientific skepticism, critical thinking, and the baloney detection kit against pseudoscience.",
+    "tags": [
+      "skepticism",
+      "scientific method",
+      "rationality"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "SC-04",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "1995-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0116",
+    "isbn13": "9780199291151",
+    "title": "The Selfish Gene",
+    "authors": [
+      {
+        "author_id": "A0094",
+        "name": "Richard Dawkins"
+      }
+    ],
+    "genres": [
+      "Science"
+    ],
+    "publisher": "Oxford University Press",
+    "publication_year": 1976,
+    "language": "English",
+    "pages": 368,
+    "description": "The gene-centered view of evolution popularizing altruism dynamics and coining the foundational concept of the meme.",
+    "tags": [
+      "evolutionary biology",
+      "genetics",
+      "memetics"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "SC-05",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "1976-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0117",
+    "isbn13": "9780393315707",
+    "title": "The Blind Watchmaker",
+    "authors": [
+      {
+        "author_id": "A0094",
+        "name": "Richard Dawkins"
+      }
+    ],
+    "genres": [
+      "Science"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publication_year": 1986,
+    "language": "English",
+    "pages": 332,
+    "description": "An elegant explanation of how cumulative natural selection produces breathtaking biological complexity without design.",
+    "tags": [
+      "evolution",
+      "natural selection",
+      "darwinism"
+    ],
+    "total_copies": 6,
+    "available_copies": 5,
+    "shelf_location": "SC-06",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "1986-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0118",
+    "isbn13": "9781476733500",
+    "title": "The Gene: An Intimate History",
+    "authors": [
+      {
+        "author_id": "A0095",
+        "name": "Siddhartha Mukherjee"
+      }
+    ],
+    "genres": [
+      "Science",
+      "History"
+    ],
+    "publisher": "Scribner",
+    "publication_year": 2016,
+    "language": "English",
+    "pages": 592,
+    "description": "A sweeping biographical narrative of the gene weaving science, family history, and moral questions of gene editing.",
+    "tags": [
+      "genetics",
+      "dna",
+      "medicine"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "SC-07",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2016-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0119",
+    "isbn13": "9781439170915",
+    "title": "The Emperor of All Maladies: A Biography of Cancer",
+    "authors": [
+      {
+        "author_id": "A0095",
+        "name": "Siddhartha Mukherjee"
+      }
+    ],
+    "genres": [
+      "Science",
+      "History"
+    ],
+    "publisher": "Scribner",
+    "publication_year": 2010,
+    "language": "English",
+    "pages": 571,
+    "description": "A Pulitzer Prize-winning history of cancer research, medical triumphs, human endurance, and therapeutic discoveries.",
+    "tags": [
+      "oncology",
+      "pulitzer",
+      "medical history"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "SC-08",
+    "avg_rating": 4.0,
+    "ratings_count": 3,
+    "created_at": "2010-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0120",
+    "isbn13": "9780465025275",
+    "title": "Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher",
+    "authors": [
+      {
+        "author_id": "A0096",
+        "name": "Richard P. Feynman"
+      }
+    ],
+    "genres": [
+      "Science"
+    ],
+    "publisher": "Basic Books",
+    "publication_year": 1994,
+    "language": "English",
+    "pages": 146,
+    "description": "Six accessible lecture chapters introducing atoms, basic physics principles, energy, gravitation, and quantum behavior.",
+    "tags": [
+      "physics",
+      "feynman",
+      "science education"
+    ],
+    "total_copies": 7,
+    "available_copies": 5,
+    "shelf_location": "SC-09",
+    "avg_rating": 4.67,
+    "ratings_count": 3,
+    "created_at": "1994-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0121",
+    "isbn13": "9780393316049",
+    "title": "Surely You're Joking, Mr. Feynman!",
+    "authors": [
+      {
+        "author_id": "A0096",
+        "name": "Richard P. Feynman"
+      }
+    ],
+    "genres": [
+      "Science",
+      "Biography"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publication_year": 1985,
+    "language": "English",
+    "pages": 350,
+    "description": "Hilarious and outrageous anecdotes from the Nobel laureate's life involving safe cracking, bongo drums, and atomic physics.",
+    "tags": [
+      "humor",
+      "memoir",
+      "feynman"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "SC-10",
+    "avg_rating": 3.0,
+    "ratings_count": 5,
+    "created_at": "1985-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0122",
+    "isbn13": "9780735216105",
+    "title": "The Order of Time",
+    "authors": [
+      {
+        "author_id": "A0097",
+        "name": "Carlo Rovelli"
+      }
+    ],
+    "genres": [
+      "Science",
+      "Philosophy"
+    ],
+    "publisher": "Riverhead Books",
+    "publication_year": 2018,
+    "language": "English",
+    "pages": 256,
+    "description": "A lyrical contemplation on how quantum gravity shatters our intuitive perception of past, present, and flow.",
+    "tags": [
+      "physics of time",
+      "quantum gravity",
+      "lyrical science"
+    ],
+    "total_copies": 6,
+    "available_copies": 6,
+    "shelf_location": "SC-11",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "2018-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0123",
+    "isbn13": "9780399184413",
+    "title": "Seven Brief Lessons on Physics",
+    "authors": [
+      {
+        "author_id": "A0097",
+        "name": "Carlo Rovelli"
+      }
+    ],
+    "genres": [
+      "Science"
+    ],
+    "publisher": "Riverhead Books",
+    "publication_year": 2014,
+    "language": "English",
+    "pages": 96,
+    "description": "A pocket guide illuminating relativity, quantum mechanics, elementary particles, and black holes with poetic grace.",
+    "tags": [
+      "modern physics",
+      "concise",
+      "rovelli"
+    ],
+    "total_copies": 6,
+    "available_copies": 5,
+    "shelf_location": "SC-12",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2014-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0124",
+    "isbn13": "9780062316097",
+    "title": "Sapiens: A Brief History of Humankind",
+    "authors": [
+      {
+        "author_id": "A0098",
+        "name": "Yuval Noah Harari"
+      }
+    ],
+    "genres": [
+      "History",
+      "Science"
+    ],
+    "publisher": "Harper",
+    "publication_year": 2014,
+    "language": "English",
+    "pages": 443,
+    "description": "How an insignificant ape evolved through cognitive, agricultural, and scientific revolutions to dominate the globe.",
+    "tags": [
+      "anthropology",
+      "human evolution",
+      "cognitive revolution"
+    ],
+    "total_copies": 10,
+    "available_copies": 9,
+    "shelf_location": "HI-01",
+    "avg_rating": 4.0,
+    "ratings_count": 2,
+    "created_at": "2014-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0125",
+    "isbn13": "9780062464316",
+    "title": "Homo Deus: A Brief History of Tomorrow",
+    "authors": [
+      {
+        "author_id": "A0098",
+        "name": "Yuval Noah Harari"
+      }
+    ],
+    "genres": [
+      "History",
+      "Philosophy"
+    ],
+    "publisher": "Harper",
+    "publication_year": 2016,
+    "language": "English",
+    "pages": 448,
+    "description": "An inquiry into the future of humanity facing artificial intelligence, bioengineering, and the quest for immortality.",
+    "tags": [
+      "future of humanity",
+      "ai",
+      "dataism"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "HI-02",
+    "avg_rating": 4.0,
+    "ratings_count": 2,
+    "created_at": "2016-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0126",
+    "isbn13": "9780525512172",
+    "title": "21 Lessons for the 21st Century",
+    "authors": [
+      {
+        "author_id": "A0098",
+        "name": "Yuval Noah Harari"
+      }
+    ],
+    "genres": [
+      "History",
+      "Philosophy"
+    ],
+    "publisher": "Spiegel & Grau",
+    "publication_year": 2018,
+    "language": "English",
+    "pages": 400,
+    "description": "A timely roadmap for navigating contemporary challenges like disinformation, nationalism, immigration, and secularism.",
+    "tags": [
+      "current affairs",
+      "future",
+      "sociology"
+    ],
+    "total_copies": 7,
+    "available_copies": 4,
+    "shelf_location": "HI-03",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2018-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0127",
+    "isbn13": "9780393061314",
+    "title": "Guns, Germs, and Steel",
+    "authors": [
+      {
+        "author_id": "A0099",
+        "name": "Jared Diamond"
+      }
+    ],
+    "genres": [
+      "History",
+      "Science"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publication_year": 1997,
+    "language": "English",
+    "pages": 480,
+    "description": "An environmental explanation of why Eurasian societies, rather than other continents, conquered the modern world.",
+    "tags": [
+      "geographic determinism",
+      "pulitzer",
+      "world history"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "HI-04",
+    "avg_rating": 5.0,
+    "ratings_count": 4,
+    "created_at": "1997-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0128",
+    "isbn13": "9780143117001",
+    "title": "Collapse: How Societies Choose to Fail or Succeed",
+    "authors": [
+      {
+        "author_id": "A0099",
+        "name": "Jared Diamond"
+      }
+    ],
+    "genres": [
+      "History",
+      "Science"
+    ],
+    "publisher": "Viking Press",
+    "publication_year": 2005,
+    "language": "English",
+    "pages": 592,
+    "description": "Case studies of past civilizations like Easter Island and Norse Greenland showing ecological vulnerabilities and decision-making.",
+    "tags": [
+      "environmental history",
+      "civilization collapse",
+      "ecology"
+    ],
+    "total_copies": 6,
+    "available_copies": 6,
+    "shelf_location": "HI-05",
+    "avg_rating": 4.0,
+    "ratings_count": 2,
+    "created_at": "2005-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0129",
+    "isbn13": "9781408839997",
+    "title": "The Silk Roads: A New History of the World",
+    "authors": [
+      {
+        "author_id": "A0100",
+        "name": "Peter Frankopan"
+      }
+    ],
+    "genres": [
+      "History"
+    ],
+    "publisher": "Bloomsbury",
+    "publication_year": 2015,
+    "language": "English",
+    "pages": 656,
+    "description": "A reassessment of world history centering the vast trade and intellectual arteries that crossed Central Asia.",
+    "tags": [
+      "silk road",
+      "trade routes",
+      "eurasia"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "HI-06",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2015-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0130",
+    "isbn13": "9781408864371",
+    "title": "The Anarchy: The Relentless Rise of the East India Company",
+    "authors": [
+      {
+        "author_id": "A0101",
+        "name": "William Dalrymple"
+      }
+    ],
+    "genres": [
+      "History",
+      "Indian Authors"
+    ],
+    "publisher": "Bloomsbury",
+    "publication_year": 2019,
+    "language": "English",
+    "pages": 544,
+    "description": "How a London joint-stock corporation transformed into a voracious colonial ruler subduing the Mughal empire.",
+    "tags": [
+      "east india company",
+      "mughal empire",
+      "corporate imperialism"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "HI-07",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "2019-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0131",
+    "isbn13": "9780006550969",
+    "title": "White Mughals: Love and Betrayal in Eighteenth-Century India",
+    "authors": [
+      {
+        "author_id": "A0101",
+        "name": "William Dalrymple"
+      }
+    ],
+    "genres": [
+      "History",
+      "Indian Authors"
+    ],
+    "publisher": "HarperCollins",
+    "publication_year": 2002,
+    "language": "English",
+    "pages": 580,
+    "description": "The remarkable true romance between a British Resident in Hyderabad and a Hyderabadi noblewoman.",
+    "tags": [
+      "hyderabad",
+      "cultural exchange",
+      "colonial romance"
+    ],
+    "total_copies": 6,
+    "available_copies": 5,
+    "shelf_location": "HI-08",
+    "avg_rating": 4.0,
+    "ratings_count": 4,
+    "created_at": "2002-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0132",
+    "isbn13": "9780143124153",
+    "title": "A History of the World in 100 Objects",
+    "authors": [
+      {
+        "author_id": "A0102",
+        "name": "Neil MacGregor"
+      }
+    ],
+    "genres": [
+      "History"
+    ],
+    "publisher": "Penguin Books",
+    "publication_year": 2010,
+    "language": "English",
+    "pages": 707,
+    "description": "Two million years of human civilization narrated through carefully selected physical artifacts from the British Museum.",
+    "tags": [
+      "artifacts",
+      "museum",
+      "global history"
+    ],
+    "total_copies": 6,
+    "available_copies": 4,
+    "shelf_location": "HI-09",
+    "avg_rating": 3.33,
+    "ratings_count": 3,
+    "created_at": "2010-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0133",
+    "isbn13": "9780871404237",
+    "title": "SPQR: A History of Ancient Rome",
+    "authors": [
+      {
+        "author_id": "A0103",
+        "name": "Mary Beard"
+      }
+    ],
+    "genres": [
+      "History"
+    ],
+    "publisher": "Liveright",
+    "publication_year": 2015,
+    "language": "English",
+    "pages": 608,
+    "description": "A vivid and demystifying reassessment of Rome's evolution from a muddy village to a Mediterranean superpower.",
+    "tags": [
+      "ancient rome",
+      "senate",
+      "emperors"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "HI-10",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2015-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0134",
+    "isbn13": "9781610397216",
+    "title": "The Storm Before the Storm: The Beginning of the End of the Roman Republic",
+    "authors": [
+      {
+        "author_id": "A0104",
+        "name": "Mike Duncan"
+      }
+    ],
+    "genres": [
+      "History"
+    ],
+    "publisher": "PublicAffairs",
+    "publication_year": 2017,
+    "language": "English",
+    "pages": 352,
+    "description": "The generational decay of Roman republican norms, populist violence, and economic inequality before Julius Caesar.",
+    "tags": [
+      "roman republic",
+      "gracchi",
+      "political polarization"
+    ],
+    "total_copies": 6,
+    "available_copies": 4,
+    "shelf_location": "HI-11",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "2017-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0135",
+    "isbn13": "9781594200656",
+    "title": "Postwar: A History of Europe Since 1945",
+    "authors": [
+      {
+        "author_id": "A0105",
+        "name": "Tony Judt"
+      }
+    ],
+    "genres": [
+      "History"
+    ],
+    "publisher": "Penguin Press",
+    "publication_year": 2005,
+    "language": "English",
+    "pages": 933,
+    "description": "An exhaustive masterpiece chronicling European rebirth, cold war division, and European unification after WWII.",
+    "tags": [
+      "cold war",
+      "european union",
+      "modern history"
+    ],
+    "total_copies": 5,
+    "available_copies": 4,
+    "shelf_location": "HI-12",
+    "avg_rating": 4.67,
+    "ratings_count": 3,
+    "created_at": "2005-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0136",
+    "isbn13": "9781451648539",
+    "title": "Steve Jobs",
+    "authors": [
+      {
+        "author_id": "A0106",
+        "name": "Walter Isaacson"
+      }
+    ],
+    "genres": [
+      "Biography",
+      "Computer Science & Technology"
+    ],
+    "publisher": "Simon & Schuster",
+    "publication_year": 2011,
+    "language": "English",
+    "pages": 656,
+    "description": "The exclusive, unvarnished biography of Apple's visionary founder, his reality distortion field, and design obsessions.",
+    "tags": [
+      "apple",
+      "innovation",
+      "entrepreneurship"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "BI-01",
+    "avg_rating": 4.4,
+    "ratings_count": 5,
+    "created_at": "2011-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0137",
+    "isbn13": "9780743264730",
+    "title": "Einstein: His Life and Universe",
+    "authors": [
+      {
+        "author_id": "A0106",
+        "name": "Walter Isaacson"
+      }
+    ],
+    "genres": [
+      "Biography",
+      "Science"
+    ],
+    "publisher": "Simon & Schuster",
+    "publication_year": 2007,
+    "language": "English",
+    "pages": 704,
+    "description": "The inspiring life of the rebellious patent clerk whose thought experiments reshaped modern physics and relativity.",
+    "tags": [
+      "einstein",
+      "relativity",
+      "genius"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "BI-02",
+    "avg_rating": 4.0,
+    "ratings_count": 3,
+    "created_at": "2007-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0138",
+    "isbn13": "9781501139154",
+    "title": "Leonardo da Vinci",
+    "authors": [
+      {
+        "author_id": "A0106",
+        "name": "Walter Isaacson"
+      }
+    ],
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "publisher": "Simon & Schuster",
+    "publication_year": 2017,
+    "language": "English",
+    "pages": 624,
+    "description": "A lavish portrait of history's greatest polymath exploring how relentless curiosity fused his art with science.",
+    "tags": [
+      "renaissance",
+      "polymath",
+      "curiosity"
+    ],
+    "total_copies": 7,
+    "available_copies": 5,
+    "shelf_location": "BI-03",
+    "avg_rating": 4.0,
+    "ratings_count": 3,
+    "created_at": "2017-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0139",
+    "isbn13": "9781501135910",
+    "title": "Shoe Dog: A Memoir by the Creator of Nike",
+    "authors": [
+      {
+        "author_id": "A0107",
+        "name": "Phil Knight"
+      }
+    ],
+    "genres": [
+      "Biography",
+      "Business"
+    ],
+    "publisher": "Scribner",
+    "publication_year": 2016,
+    "language": "English",
+    "pages": 400,
+    "description": "The honest and exhilarating underdog story of importing Japanese running shoes and building the global Nike brand.",
+    "tags": [
+      "nike",
+      "startup",
+      "entrepreneurship"
+    ],
+    "total_copies": 8,
+    "available_copies": 6,
+    "shelf_location": "BI-04",
+    "avg_rating": 4.67,
+    "ratings_count": 3,
+    "created_at": "2016-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0140",
+    "isbn13": "9780553296983",
+    "title": "The Diary of a Young Girl",
+    "authors": [
+      {
+        "author_id": "A0108",
+        "name": "Anne Frank"
+      }
+    ],
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "publisher": "Contact Publishing",
+    "publication_year": 1947,
+    "language": "English",
+    "pages": 283,
+    "description": "The poignant, luminous secret diary of a Jewish teenager hiding from Nazi persecution in an Amsterdam annex.",
+    "tags": [
+      "holocaust",
+      "amsterdam",
+      "resilience"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "BI-05",
+    "avg_rating": 4.33,
+    "ratings_count": 3,
+    "created_at": "1947-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0141",
+    "isbn13": "9780316548182",
+    "title": "Long Walk to Freedom",
+    "authors": [
+      {
+        "author_id": "A0109",
+        "name": "Nelson Mandela"
+      }
+    ],
+    "genres": [
+      "Biography",
+      "History"
+    ],
+    "publisher": "Little, Brown & Co",
+    "publication_year": 1994,
+    "language": "English",
+    "pages": 630,
+    "description": "Mandela's stirring journey from anti-apartheid militant and Robben Island prisoner to South Africa's first democratic president.",
+    "tags": [
+      "apartheid",
+      "freedom fighter",
+      "reconciliation"
+    ],
+    "total_copies": 7,
+    "available_copies": 5,
+    "shelf_location": "BI-06",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "1994-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0142",
+    "isbn13": "9781524763138",
+    "title": "Becoming",
+    "authors": [
+      {
+        "author_id": "A0110",
+        "name": "Michelle Obama"
+      }
+    ],
+    "genres": [
+      "Biography"
+    ],
+    "publisher": "Crown Publishing",
+    "publication_year": 2018,
+    "language": "English",
+    "pages": 448,
+    "description": "A deeply intimate memoir tracing a childhood on Chicago's South Side to life as First Lady in the White House.",
+    "tags": [
+      "memoir",
+      "first lady",
+      "inspiration"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "BI-07",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "2018-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0143",
+    "isbn13": "9780399588174",
+    "title": "Born a Crime: Stories from a South African Childhood",
+    "authors": [
+      {
+        "author_id": "A0111",
+        "name": "Trevor Noah"
+      }
+    ],
+    "genres": [
+      "Biography"
+    ],
+    "publisher": "Spiegel & Grau",
+    "publication_year": 2016,
+    "language": "English",
+    "pages": 304,
+    "description": "A comedic yet poignant testament to a mother's fierce love while growing up mixed-race under South African apartheid.",
+    "tags": [
+      "humor",
+      "south africa",
+      "coming of age"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "BI-08",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2016-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0144",
+    "isbn13": "9780812988406",
+    "title": "When Breath Becomes Air",
+    "authors": [
+      {
+        "author_id": "A0112",
+        "name": "Paul Kalanithi"
+      }
+    ],
+    "genres": [
+      "Biography",
+      "Philosophy"
+    ],
+    "publisher": "Random House",
+    "publication_year": 2016,
+    "language": "English",
+    "pages": 228,
+    "description": "A young neurosurgeon's profound meditation on mortality, medicine, and fatherhood after receiving a terminal cancer diagnosis.",
+    "tags": [
+      "medicine",
+      "mortality",
+      "meaning of life"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "BI-09",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "2016-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0145",
+    "isbn13": "9780399590504",
+    "title": "Educated",
+    "authors": [
+      {
+        "author_id": "A0113",
+        "name": "Tara Westover"
+      }
+    ],
+    "genres": [
+      "Biography"
+    ],
+    "publisher": "Random House",
+    "publication_year": 2018,
+    "language": "English",
+    "pages": 334,
+    "description": "An unforgettable struggle of an isolated survivalist girl who enters a classroom for the first time at seventeen and reaches Cambridge.",
+    "tags": [
+      "education",
+      "family",
+      "resilience"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "BI-10",
+    "avg_rating": 3.5,
+    "ratings_count": 2,
+    "created_at": "2018-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0146",
+    "isbn13": "9780307268198",
+    "title": "Open: An Autobiography",
+    "authors": [
+      {
+        "author_id": "A0114",
+        "name": "Andre Agassi"
+      }
+    ],
+    "genres": [
+      "Biography"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "publication_year": 2009,
+    "language": "English",
+    "pages": 388,
+    "description": "The tennis legend candidly reveals his deep childhood hatred of the game, perfectionist pressure, and redemption.",
+    "tags": [
+      "tennis",
+      "sports memoir",
+      "vulnerability"
+    ],
+    "total_copies": 6,
+    "available_copies": 6,
+    "shelf_location": "BI-11",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2009-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0147",
+    "isbn13": "9780679757085",
+    "title": "Titan: The Life of John D. Rockefeller, Sr.",
+    "authors": [
+      {
+        "author_id": "A0115",
+        "name": "Ron Chernow"
+      }
+    ],
+    "genres": [
+      "Biography",
+      "Business"
+    ],
+    "publisher": "Random House",
+    "publication_year": 1998,
+    "language": "English",
+    "pages": 832,
+    "description": "A balanced exploration of the ruthless Standard Oil monopolist who established the modern corporate landscape and philanthropy.",
+    "tags": [
+      "rockefeller",
+      "standard oil",
+      "gilded age"
+    ],
+    "total_copies": 5,
+    "available_copies": 2,
+    "shelf_location": "BI-12",
+    "avg_rating": 3.6,
+    "ratings_count": 5,
+    "created_at": "1998-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0148",
+    "isbn13": "9780735211292",
+    "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "authors": [
+      {
+        "author_id": "A0116",
+        "name": "James Clear"
+      }
+    ],
+    "genres": [
+      "Self-Help"
+    ],
+    "publisher": "Avery",
+    "publication_year": 2018,
+    "language": "English",
+    "pages": 320,
+    "description": "A practical blueprint demonstrating how tiny 1% daily system improvements compound into transformative personal change.",
+    "tags": [
+      "habits",
+      "productivity",
+      "behavioral psychology"
+    ],
+    "total_copies": 10,
+    "available_copies": 10,
+    "shelf_location": "SH-01",
+    "avg_rating": 4.0,
+    "ratings_count": 3,
+    "created_at": "2018-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0149",
+    "isbn13": "9781455586691",
+    "title": "Deep Work: Rules for Focused Success in a Distracted World",
+    "authors": [
+      {
+        "author_id": "A0117",
+        "name": "Cal Newport"
+      }
+    ],
+    "genres": [
+      "Self-Help",
+      "Business"
+    ],
+    "publisher": "Grand Central Publishing",
+    "publication_year": 2016,
+    "language": "English",
+    "pages": 304,
+    "description": "Why distraction-free cognitive focus is the superpower of the modern knowledge economy and how to cultivate it.",
+    "tags": [
+      "focus",
+      "productivity",
+      "knowledge work"
+    ],
+    "total_copies": 8,
+    "available_copies": 5,
+    "shelf_location": "SH-02",
+    "avg_rating": 3.5,
+    "ratings_count": 4,
+    "created_at": "2016-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0150",
+    "isbn13": "9780525536512",
+    "title": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
+    "authors": [
+      {
+        "author_id": "A0117",
+        "name": "Cal Newport"
+      }
+    ],
+    "genres": [
+      "Self-Help"
+    ],
+    "publisher": "Portfolio",
+    "publication_year": 2019,
+    "language": "English",
+    "pages": 304,
+    "description": "A philosophy for decluttering digital devices, reclaiming solitude, and aligning tech with personal values.",
+    "tags": [
+      "minimalism",
+      "digital wellness",
+      "mindfulness"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "SH-03",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2019-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0151",
+    "isbn13": "9780743269513",
+    "title": "The 7 Habits of Highly Effective People",
+    "authors": [
+      {
+        "author_id": "A0118",
+        "name": "Stephen R. Covey"
+      }
+    ],
+    "genres": [
+      "Self-Help",
+      "Business"
+    ],
+    "publisher": "Free Press",
+    "publication_year": 1989,
+    "language": "English",
+    "pages": 381,
+    "description": "A principle-centered character ethic teaching proactivity, empathetic listening, and win-win personal paradigms.",
+    "tags": [
+      "leadership",
+      "effectiveness",
+      "principles"
+    ],
+    "total_copies": 8,
+    "available_copies": 6,
+    "shelf_location": "SH-04",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "1989-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0152",
+    "isbn13": "9780374275631",
+    "title": "Thinking, Fast and Slow",
+    "authors": [
+      {
+        "author_id": "A0119",
+        "name": "Daniel Kahneman"
+      }
+    ],
+    "genres": [
+      "Self-Help",
+      "Science"
+    ],
+    "publisher": "Farrar, Straus and Giroux",
+    "publication_year": 2011,
+    "language": "English",
+    "pages": 499,
+    "description": "Nobel laureate Kahneman maps System 1 intuitive heuristics against System 2 deliberate reasoning, exposing cognitive biases.",
+    "tags": [
+      "behavioral economics",
+      "decision making",
+      "cognitive bias"
+    ],
+    "total_copies": 9,
+    "available_copies": 9,
+    "shelf_location": "SH-05",
+    "avg_rating": 3.0,
+    "ratings_count": 1,
+    "created_at": "2011-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0153",
+    "isbn13": "9781577314806",
+    "title": "The Power of Now: A Guide to Spiritual Enlightenment",
+    "authors": [
+      {
+        "author_id": "A0120",
+        "name": "Eckhart Tolle"
+      }
+    ],
+    "genres": [
+      "Self-Help",
+      "Philosophy"
+    ],
+    "publisher": "New World Library",
+    "publication_year": 1997,
+    "language": "English",
+    "pages": 236,
+    "description": "A transformative guide encouraging readers to dis-identify from ego-chatter and live peacefully in the present moment.",
+    "tags": [
+      "mindfulness",
+      "spirituality",
+      "presence"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "SH-06",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "1997-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0154",
+    "isbn13": "9780062457714",
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "authors": [
+      {
+        "author_id": "A0121",
+        "name": "Mark Manson"
+      }
+    ],
+    "genres": [
+      "Self-Help"
+    ],
+    "publisher": "HarperOne",
+    "publication_year": 2016,
+    "language": "English",
+    "pages": 224,
+    "description": "A counterintuitive, refreshingly blunt manifesto on accepting struggles and choosing values that genuinely matter.",
+    "tags": [
+      "stoic",
+      "authenticity",
+      "values"
+    ],
+    "total_copies": 9,
+    "available_copies": 7,
+    "shelf_location": "SH-07",
+    "avg_rating": 4.33,
+    "ratings_count": 3,
+    "created_at": "2016-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0155",
+    "isbn13": "9781544512280",
+    "title": "Can't Hurt Me: Master Your Mind and Defy the Odds",
+    "authors": [
+      {
+        "author_id": "A0122",
+        "name": "David Goggins"
+      }
+    ],
+    "genres": [
+      "Self-Help",
+      "Biography"
+    ],
+    "publisher": "Lioncrest Publishing",
+    "publication_year": 2018,
+    "language": "English",
+    "pages": 364,
+    "description": "Former Navy SEAL David Goggins details extreme mental toughness, callusing the mind, and smashing self-imposed barriers.",
+    "tags": [
+      "mental toughness",
+      "discipline",
+      "goggins"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "SH-08",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "2018-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0156",
+    "isbn13": "9780345472328",
+    "title": "Mindset: The New Psychology of Success",
+    "authors": [
+      {
+        "author_id": "A0123",
+        "name": "Carol S. Dweck"
+      }
+    ],
+    "genres": [
+      "Self-Help",
+      "Science"
+    ],
+    "publisher": "Ballantine Books",
+    "publication_year": 2006,
+    "language": "English",
+    "pages": 288,
+    "description": "Stanford psychologist Carol Dweck demonstrates how cultivating a growth mindset unlocks potential across careers and learning.",
+    "tags": [
+      "growth mindset",
+      "psychology",
+      "learning"
+    ],
+    "total_copies": 7,
+    "available_copies": 5,
+    "shelf_location": "SH-09",
+    "avg_rating": 4.33,
+    "ratings_count": 3,
+    "created_at": "2006-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0157",
+    "isbn13": "9780804137386",
+    "title": "Essentialism: The Disciplined Pursuit of Less",
+    "authors": [
+      {
+        "author_id": "A0124",
+        "name": "Greg McKeown"
+      }
+    ],
+    "genres": [
+      "Self-Help",
+      "Business"
+    ],
+    "publisher": "Crown Business",
+    "publication_year": 2014,
+    "language": "English",
+    "pages": 272,
+    "description": "How to say no, eliminate non-essentials, and focus highest energy only on what is truly vital.",
+    "tags": [
+      "essentialism",
+      "prioritization",
+      "clarity"
+    ],
+    "total_copies": 7,
+    "available_copies": 4,
+    "shelf_location": "SH-10",
+    "avg_rating": 5.0,
+    "ratings_count": 2,
+    "created_at": "2014-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0158",
+    "isbn13": "9780761178972",
+    "title": "Show Your Work!",
+    "authors": [
+      {
+        "author_id": "A0125",
+        "name": "Austin Kleon"
+      }
+    ],
+    "genres": [
+      "Self-Help",
+      "Business"
+    ],
+    "publisher": "Workman Publishing",
+    "publication_year": 2014,
+    "language": "English",
+    "pages": 224,
+    "description": "Ten ways to share your creative process, build an authentic audience, and get discovered without self-promotion.",
+    "tags": [
+      "creativity",
+      "generosity",
+      "public learning"
+    ],
+    "total_copies": 7,
+    "available_copies": 4,
+    "shelf_location": "SH-11",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "2014-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0159",
+    "isbn13": "9780525572428",
+    "title": "Make Time: How to Focus on What Matters Every Day",
+    "authors": [
+      {
+        "author_id": "A0126",
+        "name": "Jake Knapp"
+      },
+      {
+        "author_id": "A0127",
+        "name": "John Zeratsky"
+      }
+    ],
+    "genres": [
+      "Self-Help"
+    ],
+    "publisher": "Currency",
+    "publication_year": 2018,
+    "language": "English",
+    "pages": 304,
+    "description": "Designers behind Google Ventures present a friendly daily system to reclaim hours from the infinite distraction machine.",
+    "tags": [
+      "time management",
+      "focus",
+      "habits"
+    ],
+    "total_copies": 6,
+    "available_copies": 5,
+    "shelf_location": "SH-12",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "2018-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0160",
+    "isbn13": "9780857197689",
+    "title": "The Psychology of Money",
+    "authors": [
+      {
+        "author_id": "A0128",
+        "name": "Morgan Housel"
+      }
+    ],
+    "genres": [
+      "Business",
+      "Self-Help"
+    ],
+    "publisher": "Harriman House",
+    "publication_year": 2020,
+    "language": "English",
+    "pages": 256,
+    "description": "Nineteen short stories illustrating how personal behavior, ego, and luck outweigh spreadsheet equations in wealth building.",
+    "tags": [
+      "investing",
+      "behavioral finance",
+      "wealth"
+    ],
+    "total_copies": 9,
+    "available_copies": 8,
+    "shelf_location": "BU-01",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "2020-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0161",
+    "isbn13": "9780804139298",
+    "title": "Zero to One: Notes on Startups, or How to Build the Future",
+    "authors": [
+      {
+        "author_id": "A0129",
+        "name": "Peter Thiel"
+      },
+      {
+        "author_id": "A0130",
+        "name": "Blake Masters"
+      }
+    ],
+    "genres": [
+      "Business",
+      "Computer Science & Technology"
+    ],
+    "publisher": "Crown Business",
+    "publication_year": 2014,
+    "language": "English",
+    "pages": 224,
+    "description": "Venture capitalist Peter Thiel argues why creating novel vertical monopolies creates genuine civilizational progress.",
+    "tags": [
+      "startups",
+      "venture capital",
+      "innovation"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "BU-02",
+    "avg_rating": 4.6,
+    "ratings_count": 5,
+    "created_at": "2014-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0162",
+    "isbn13": "9780307887894",
+    "title": "The Lean Startup",
+    "authors": [
+      {
+        "author_id": "A0131",
+        "name": "Eric Ries"
+      }
+    ],
+    "genres": [
+      "Business",
+      "Computer Science & Technology"
+    ],
+    "publisher": "Crown Business",
+    "publication_year": 2011,
+    "language": "English",
+    "pages": 336,
+    "description": "A methodology rooted in validated learning, rapid experimentation, and minimal viable products to eliminate startup waste.",
+    "tags": [
+      "lean startup",
+      "mvp",
+      "product management"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "BU-03",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "2011-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0163",
+    "isbn13": "9780066620992",
+    "title": "Good to Great: Why Some Companies Make the Leap and Others Don't",
+    "authors": [
+      {
+        "author_id": "A0132",
+        "name": "Jim Collins"
+      }
+    ],
+    "genres": [
+      "Business"
+    ],
+    "publisher": "HarperBusiness",
+    "publication_year": 2001,
+    "language": "English",
+    "pages": 300,
+    "description": "Empirical analysis identifying Level 5 leadership, the Hedgehog Concept, and the Flywheel effect in lasting companies.",
+    "tags": [
+      "management",
+      "leadership",
+      "organizational culture"
+    ],
+    "total_copies": 7,
+    "available_copies": 5,
+    "shelf_location": "BU-04",
+    "avg_rating": 4.0,
+    "ratings_count": 2,
+    "created_at": "2001-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0164",
+    "isbn13": "9780060731328",
+    "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+    "authors": [
+      {
+        "author_id": "A0133",
+        "name": "Steven D. Levitt"
+      },
+      {
+        "author_id": "A0134",
+        "name": "Stephen J. Dubner"
+      }
+    ],
+    "genres": [
+      "Business",
+      "Science"
+    ],
+    "publisher": "William Morrow",
+    "publication_year": 2005,
+    "language": "English",
+    "pages": 336,
+    "description": "An entertaining application of economic incentives to real-world riddles from sumo wrestling to parenting choices.",
+    "tags": [
+      "economics",
+      "incentives",
+      "curiosity"
+    ],
+    "total_copies": 8,
+    "available_copies": 6,
+    "shelf_location": "BU-05",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2005-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0165",
+    "isbn13": "9780060555665",
+    "title": "The Intelligent Investor",
+    "authors": [
+      {
+        "author_id": "A0135",
+        "name": "Benjamin Graham"
+      }
+    ],
+    "genres": [
+      "Business"
+    ],
+    "publisher": "Harper & Brothers",
+    "publication_year": 1949,
+    "language": "English",
+    "pages": 640,
+    "description": "The timeless value investing bible introducing Mr. Market and the safety margin that shaped Warren Buffett's philosophy.",
+    "tags": [
+      "value investing",
+      "stocks",
+      "margin of safety"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "BU-06",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "1949-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0166",
+    "isbn13": "9781501124020",
+    "title": "Principles: Life and Work",
+    "authors": [
+      {
+        "author_id": "A0136",
+        "name": "Ray Dalio"
+      }
+    ],
+    "genres": [
+      "Business",
+      "Self-Help"
+    ],
+    "publisher": "Simon & Schuster",
+    "publication_year": 2017,
+    "language": "English",
+    "pages": 592,
+    "description": "Bridgewater founder Ray Dalio shares his systematic operating rules based on radical truth and radical transparency.",
+    "tags": [
+      "decision making",
+      "hedge funds",
+      "culture"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "BU-07",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "2017-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0167",
+    "isbn13": "9780062273208",
+    "title": "The Hard Thing About Hard Things",
+    "authors": [
+      {
+        "author_id": "A0137",
+        "name": "Ben Horowitz"
+      }
+    ],
+    "genres": [
+      "Business",
+      "Computer Science & Technology"
+    ],
+    "publisher": "HarperBusiness",
+    "publication_year": 2014,
+    "language": "English",
+    "pages": 304,
+    "description": "Unvarnished Silicon Valley executive advice on navigating wartime CEO dilemmas, layoffs, and executive crises.",
+    "tags": [
+      "startups",
+      "ceo",
+      "leadership"
+    ],
+    "total_copies": 7,
+    "available_copies": 4,
+    "shelf_location": "BU-08",
+    "avg_rating": 4.33,
+    "ratings_count": 3,
+    "created_at": "2014-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0168",
+    "isbn13": "9780735216358",
+    "title": "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts",
+    "authors": [
+      {
+        "author_id": "A0138",
+        "name": "Annie Duke"
+      }
+    ],
+    "genres": [
+      "Business",
+      "Self-Help"
+    ],
+    "publisher": "Portfolio",
+    "publication_year": 2018,
+    "language": "English",
+    "pages": 288,
+    "description": "A former World Series of Poker champion shows how viewing life through probabilistic bets avoids outcome bias.",
+    "tags": [
+      "poker",
+      "probabilistic thinking",
+      "decision making"
+    ],
+    "total_copies": 6,
+    "available_copies": 6,
+    "shelf_location": "BU-09",
+    "avg_rating": 4.0,
+    "ratings_count": 2,
+    "created_at": "2018-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0169",
+    "isbn13": "9780307463746",
+    "title": "Rework",
+    "authors": [
+      {
+        "author_id": "A0139",
+        "name": "Jason Fried"
+      },
+      {
+        "author_id": "A0140",
+        "name": "David Heinemeier Hansson"
+      }
+    ],
+    "genres": [
+      "Business",
+      "Computer Science & Technology"
+    ],
+    "publisher": "Crown Business",
+    "publication_year": 2010,
+    "language": "English",
+    "pages": 288,
+    "description": "The 37signals founders debunk conventional corporate wisdom on funding, meetings, workaholism, and scale.",
+    "tags": [
+      "bootstrapping",
+      "remote work",
+      "simplicity"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "BU-10",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "2010-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0170",
+    "isbn13": "9781422196021",
+    "title": "The Innovator's Dilemma",
+    "authors": [
+      {
+        "author_id": "A0141",
+        "name": "Clayton M. Christensen"
+      }
+    ],
+    "genres": [
+      "Business"
+    ],
+    "publisher": "Harvard Business Review Press",
+    "publication_year": 1997,
+    "language": "English",
+    "pages": 286,
+    "description": "Why well-managed industry giants fail by ignoring cheap, low-end disruptive innovations until it is too late.",
+    "tags": [
+      "disruption",
+      "innovation",
+      "strategy"
+    ],
+    "total_copies": 6,
+    "available_copies": 6,
+    "shelf_location": "BU-11",
+    "avg_rating": 5.0,
+    "ratings_count": 2,
+    "created_at": "1997-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0171",
+    "isbn13": "9781591847786",
+    "title": "Hooked: How to Build Habit-Forming Products",
+    "authors": [
+      {
+        "author_id": "A0142",
+        "name": "Nir Eyal"
+      }
+    ],
+    "genres": [
+      "Business",
+      "Computer Science & Technology"
+    ],
+    "publisher": "Portfolio",
+    "publication_year": 2014,
+    "language": "English",
+    "pages": 256,
+    "description": "The four-step hook model explaining how modern digital apps capture subconscious consumer engagement.",
+    "tags": [
+      "product design",
+      "behavior design",
+      "habits"
+    ],
+    "total_copies": 6,
+    "available_copies": 6,
+    "shelf_location": "BU-12",
+    "avg_rating": 4.67,
+    "ratings_count": 3,
+    "created_at": "2014-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0172",
+    "isbn13": "9780525478812",
+    "title": "The Fault in Our Stars",
+    "authors": [
+      {
+        "author_id": "A0143",
+        "name": "John Green"
+      }
+    ],
+    "genres": [
+      "Romance",
+      "Young Adult"
+    ],
+    "publisher": "Dutton Books",
+    "publication_year": 2012,
+    "language": "English",
+    "pages": 313,
+    "description": "Two witty teenagers navigate cancer support group camaraderie, first love, and grief in an Amsterdam odyssey.",
+    "tags": [
+      "young love",
+      "poignant",
+      "heartbreaking"
+    ],
+    "total_copies": 8,
+    "available_copies": 6,
+    "shelf_location": "RO-01",
+    "avg_rating": 3.25,
+    "ratings_count": 4,
+    "created_at": "2012-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0173",
+    "isbn13": "9780670026609",
+    "title": "Me Before You",
+    "authors": [
+      {
+        "author_id": "A0144",
+        "name": "Jojo Moyes"
+      }
+    ],
+    "genres": [
+      "Romance",
+      "Fiction"
+    ],
+    "publisher": "Michael Joseph",
+    "publication_year": 2012,
+    "language": "English",
+    "pages": 480,
+    "description": "An eccentric British woman is hired as a companion for a quadriplegic former banker, transforming both their lives.",
+    "tags": [
+      "emotional",
+      "contemporary romance",
+      "tearjerker"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "RO-02",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "2012-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0174",
+    "isbn13": "9781984822178",
+    "title": "Normal People",
+    "authors": [
+      {
+        "author_id": "A0145",
+        "name": "Sally Rooney"
+      }
+    ],
+    "genres": [
+      "Romance",
+      "Fiction"
+    ],
+    "publisher": "Faber & Faber",
+    "publication_year": 2018,
+    "language": "English",
+    "pages": 273,
+    "description": "The intimate social, sexual, and emotional entanglements of Connell and Marianne as they move from secondary school to Trinity College.",
+    "tags": [
+      "contemporary",
+      "intimacy",
+      "irish fiction"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "RO-03",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "2018-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0175",
+    "isbn13": "9780156029438",
+    "title": "The Time Traveler's Wife",
+    "authors": [
+      {
+        "author_id": "A0146",
+        "name": "Audrey Niffenegger"
+      }
+    ],
+    "genres": [
+      "Romance",
+      "Sci-Fi"
+    ],
+    "publisher": "MacAdam/Cage",
+    "publication_year": 2003,
+    "language": "English",
+    "pages": 518,
+    "description": "A passionate love story testing marriage when a man with a genetic anomaly involuntarily travels through time.",
+    "tags": [
+      "time travel",
+      "destiny",
+      "unconditional love"
+    ],
+    "total_copies": 7,
+    "available_copies": 4,
+    "shelf_location": "RO-04",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "2003-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0176",
+    "isbn13": "9780385319959",
+    "title": "Outlander",
+    "authors": [
+      {
+        "author_id": "A0147",
+        "name": "Diana Gabaldon"
+      }
+    ],
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "History"
+    ],
+    "publisher": "Delacorte Press",
+    "publication_year": 1991,
+    "language": "English",
+    "pages": 627,
+    "description": "A WWII combat nurse is swept back through ancient standing stones into 1743 war-torn Scottish Highlands and meets Jamie Fraser.",
+    "tags": [
+      "highlands",
+      "scotland",
+      "historical romance"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "RO-05",
+    "avg_rating": 3.0,
+    "ratings_count": 2,
+    "created_at": "1991-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0177",
+    "isbn13": "9780062060624",
+    "title": "The Song of Achilles",
+    "authors": [
+      {
+        "author_id": "A0148",
+        "name": "Madeline Miller"
+      }
+    ],
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Classics"
+    ],
+    "publisher": "Ecco Press",
+    "publication_year": 2011,
+    "language": "English",
+    "pages": 378,
+    "description": "A breathtaking romantic retelling of the Trojan War narrated through the tender devotion between Patroclus and Achilles.",
+    "tags": [
+      "greek mythology",
+      "iliad",
+      "queer romance"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "RO-06",
+    "avg_rating": 3.67,
+    "ratings_count": 3,
+    "created_at": "2011-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0178",
+    "isbn13": "9780316556347",
+    "title": "Circe",
+    "authors": [
+      {
+        "author_id": "A0148",
+        "name": "Madeline Miller"
+      }
+    ],
+    "genres": [
+      "Fantasy",
+      "Fiction"
+    ],
+    "publisher": "Little, Brown and Company",
+    "publication_year": 2018,
+    "language": "English",
+    "pages": 393,
+    "description": "The exiled witch Circe discovers her hidden powers of herbcraft and defends her island paradise against gods and mortals.",
+    "tags": [
+      "greek myth",
+      "witchcraft",
+      "feminism"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "RO-07",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2018-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0179",
+    "isbn13": "9781250316776",
+    "title": "Red, White & Royal Blue",
+    "authors": [
+      {
+        "author_id": "A0149",
+        "name": "Casey McQuiston"
+      }
+    ],
+    "genres": [
+      "Romance",
+      "Fiction"
+    ],
+    "publisher": "St. Martin's Griffin",
+    "publication_year": 2019,
+    "language": "English",
+    "pages": 421,
+    "description": "America's First Son and the Prince of Wales spark a secret international love affair after an orchestrated diplomatic truce.",
+    "tags": [
+      "lgbtq",
+      "royal romance",
+      "enemies to lovers"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "RO-08",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "2019-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0180",
+    "isbn13": "9781501161933",
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "authors": [
+      {
+        "author_id": "A0150",
+        "name": "Taylor Jenkins Reid"
+      }
+    ],
+    "genres": [
+      "Romance",
+      "Fiction"
+    ],
+    "publisher": "Atria Books",
+    "publication_year": 2017,
+    "language": "English",
+    "pages": 400,
+    "description": "An aging Hollywood icon chooses an unknown magazine reporter to finally tell the unvarnished truth about her glamorous scandalous life.",
+    "tags": [
+      "hollywood",
+      "glamour",
+      "secret romance"
+    ],
+    "total_copies": 9,
+    "available_copies": 8,
+    "shelf_location": "RO-09",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2017-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0181",
+    "isbn13": "9781984806734",
+    "title": "Beach Read",
+    "authors": [
+      {
+        "author_id": "A0151",
+        "name": "Emily Henry"
+      }
+    ],
+    "genres": [
+      "Romance"
+    ],
+    "publisher": "Berkley",
+    "publication_year": 2020,
+    "language": "English",
+    "pages": 361,
+    "description": "Two rival authors with severe creative block swap genres for the summer at neighboring Michigan lakeside cottages.",
+    "tags": [
+      "writers",
+      "rivals to lovers",
+      "beach read"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "RO-10",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2020-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0182",
+    "isbn13": "9780060883287",
+    "title": "One Hundred Years of Solitude",
+    "authors": [
+      {
+        "author_id": "A0152",
+        "name": "Gabriel García Márquez"
+      }
+    ],
+    "genres": [
+      "Fiction",
+      "Classics"
+    ],
+    "publisher": "Editorial Sudamericana",
+    "publication_year": 1967,
+    "language": "English",
+    "pages": 417,
+    "description": "The multi-generational saga of the Buendía family in the mythic town of Macondo, blending history with enchantment.",
+    "tags": [
+      "magical realism",
+      "macondo",
+      "latin american"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "FI-01",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "1967-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0183",
+    "isbn13": "9780307389732",
+    "title": "Love in the Time of Cholera",
+    "authors": [
+      {
+        "author_id": "A0152",
+        "name": "Gabriel García Márquez"
+      }
+    ],
+    "genres": [
+      "Fiction",
+      "Romance"
+    ],
+    "publisher": "Editorial Oveja Negra",
+    "publication_year": 1985,
+    "language": "English",
+    "pages": 348,
+    "description": "Florentino Ariza patiently waits fifty years for his true love Fermina Daza after her aristocratic physician husband dies.",
+    "tags": [
+      "enduring love",
+      "caribbean",
+      "lyrical"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "FI-02",
+    "avg_rating": 4.67,
+    "ratings_count": 3,
+    "created_at": "1985-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0184",
+    "isbn13": "9781400079278",
+    "title": "Kafka on the Shore",
+    "authors": [
+      {
+        "author_id": "A0153",
+        "name": "Haruki Murakami"
+      }
+    ],
+    "genres": [
+      "Fiction",
+      "Fantasy"
+    ],
+    "publisher": "Shinchosha",
+    "publication_year": 2002,
+    "language": "English",
+    "pages": 505,
+    "description": "A teenage runaway and an elderly man who converses with cats converge amid fish rains and metaphysical dimensions.",
+    "tags": [
+      "surrealism",
+      "murakami",
+      "japanese literature"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "FI-03",
+    "avg_rating": 3.67,
+    "ratings_count": 3,
+    "created_at": "2002-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0185",
+    "isbn13": "9780375704024",
+    "title": "Norwegian Wood",
+    "authors": [
+      {
+        "author_id": "A0153",
+        "name": "Haruki Murakami"
+      }
+    ],
+    "genres": [
+      "Fiction",
+      "Romance"
+    ],
+    "publisher": "Kodansha",
+    "publication_year": 1987,
+    "language": "English",
+    "pages": 296,
+    "description": "A nostalgic and melancholic recollection of college student Toru Watanabe's grief, sexuality, and loss in 1960s Tokyo.",
+    "tags": [
+      "melancholy",
+      "tokyo",
+      "coming of age"
+    ],
+    "total_copies": 8,
+    "available_copies": 6,
+    "shelf_location": "FI-04",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "1987-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0186",
+    "isbn13": "9781594631931",
+    "title": "The Kite Runner",
+    "authors": [
+      {
+        "author_id": "A0154",
+        "name": "Khaled Hosseini"
+      }
+    ],
+    "genres": [
+      "Fiction",
+      "History"
+    ],
+    "publisher": "Riverhead Books",
+    "publication_year": 2003,
+    "language": "English",
+    "pages": 371,
+    "description": "An Afghan emigrant returns from California to Taliban-ruled Kabul seeking redemption for childhood betrayal of his loyal friend.",
+    "tags": [
+      "kabul",
+      "friendship",
+      "redemption"
+    ],
+    "total_copies": 9,
+    "available_copies": 8,
+    "shelf_location": "FI-05",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "2003-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0187",
+    "isbn13": "9781594489501",
+    "title": "A Thousand Splendid Suns",
+    "authors": [
+      {
+        "author_id": "A0154",
+        "name": "Khaled Hosseini"
+      }
+    ],
+    "genres": [
+      "Fiction",
+      "History"
+    ],
+    "publisher": "Riverhead Books",
+    "publication_year": 2007,
+    "language": "English",
+    "pages": 384,
+    "description": "The unbreakable solidarity between two Afghan women forced into marriage with a brutal shoemaker during decades of war.",
+    "tags": [
+      "sisterhood",
+      "afghanistan",
+      "resilience"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "FI-06",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "2007-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0188",
+    "isbn13": "9780375842207",
+    "title": "The Book Thief",
+    "authors": [
+      {
+        "author_id": "A0155",
+        "name": "Markus Zusak"
+      }
+    ],
+    "genres": [
+      "Fiction",
+      "History"
+    ],
+    "publisher": "Picador",
+    "publication_year": 2005,
+    "language": "English",
+    "pages": 552,
+    "description": "Narrated by Death, a young foster girl in Nazi Germany finds solace by stealing books and sharing them with a hidden Jewish fist-fighter.",
+    "tags": [
+      "wwii",
+      "power of words",
+      "death narrator"
+    ],
+    "total_copies": 9,
+    "available_copies": 8,
+    "shelf_location": "FI-07",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "2005-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0189",
+    "isbn13": "9780156027328",
+    "title": "Life of Pi",
+    "authors": [
+      {
+        "author_id": "A0156",
+        "name": "Yann Martel"
+      }
+    ],
+    "genres": [
+      "Fiction",
+      "Philosophy"
+    ],
+    "publisher": "Knopf Canada",
+    "publication_year": 2001,
+    "language": "English",
+    "pages": 319,
+    "description": "A shipwrecked Indian youth survives 227 days adrift on the Pacific Ocean in a lifeboat shared with a Bengal tiger named Richard Parker.",
+    "tags": [
+      "survival",
+      "bengal tiger",
+      "faith"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "FI-08",
+    "avg_rating": 1.5,
+    "ratings_count": 2,
+    "created_at": "2001-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0190",
+    "isbn13": "9781400033416",
+    "title": "Beloved",
+    "authors": [
+      {
+        "author_id": "A0157",
+        "name": "Toni Morrison"
+      }
+    ],
+    "genres": [
+      "Fiction",
+      "Classics"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "publication_year": 1987,
+    "language": "English",
+    "pages": 324,
+    "description": "An escaped enslaved woman in post-Civil War Ohio is haunted physically and spiritually by the baby daughter she killed to save from slavery.",
+    "tags": [
+      "pulitzer",
+      "haunting",
+      "african american history"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "FI-09",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "1987-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0191",
+    "isbn13": "9781400033423",
+    "title": "Song of Solomon",
+    "authors": [
+      {
+        "author_id": "A0157",
+        "name": "Toni Morrison"
+      }
+    ],
+    "genres": [
+      "Fiction",
+      "Classics"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "publication_year": 1977,
+    "language": "English",
+    "pages": 337,
+    "description": "Milkman Dead embarks on a geographic and ancestral journey south to piece together his lineage and identity.",
+    "tags": [
+      "folklore",
+      "identity",
+      "flight"
+    ],
+    "total_copies": 6,
+    "available_copies": 5,
+    "shelf_location": "FI-10",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "1977-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0192",
+    "isbn13": "9781400078776",
+    "title": "Never Let Me Go",
+    "authors": [
+      {
+        "author_id": "A0158",
+        "name": "Kazuo Ishiguro"
+      }
+    ],
+    "genres": [
+      "Fiction",
+      "Sci-Fi"
+    ],
+    "publisher": "Faber & Faber",
+    "publication_year": 2005,
+    "language": "English",
+    "pages": 288,
+    "description": "Students at a seemingly idyllic English boarding school slowly come to realize the devastating biological purpose of their existence.",
+    "tags": [
+      "cloning",
+      "heartache",
+      "dystopian ethics"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "FI-11",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "2005-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0193",
+    "isbn13": "9780679731726",
+    "title": "The Remains of the Day",
+    "authors": [
+      {
+        "author_id": "A0158",
+        "name": "Kazuo Ishiguro"
+      }
+    ],
+    "genres": [
+      "Fiction",
+      "Classics"
+    ],
+    "publisher": "Faber & Faber",
+    "publication_year": 1989,
+    "language": "English",
+    "pages": 245,
+    "description": "An aging English butler embarks on a motoring trip while reflecting with repressed regret on his lifelong unswerving devotion to his master.",
+    "tags": [
+      "butler",
+      "dignity",
+      "repressed emotion"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "FI-12",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "1989-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0194",
+    "isbn13": "9780735221079",
+    "title": "A Gentleman in Moscow",
+    "authors": [
+      {
+        "author_id": "A0159",
+        "name": "Amor Towles"
+      }
+    ],
+    "genres": [
+      "Fiction",
+      "History"
+    ],
+    "publisher": "Viking",
+    "publication_year": 2016,
+    "language": "English",
+    "pages": 462,
+    "description": "Sentenced by a Bolshevik tribunal to lifetime house arrest, Count Alexander Rostov builds an enchanting world inside the Hotel Metropol.",
+    "tags": [
+      "hotel metropol",
+      "aristocrat",
+      "soviet history"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "FI-13",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2016-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0195",
+    "isbn13": "9781476746586",
+    "title": "All the Light We Cannot See",
+    "authors": [
+      {
+        "author_id": "A0160",
+        "name": "Anthony Doerr"
+      }
+    ],
+    "genres": [
+      "Fiction",
+      "History"
+    ],
+    "publisher": "Scribner",
+    "publication_year": 2014,
+    "language": "English",
+    "pages": 531,
+    "description": "A blind French girl and a brilliant German radio tech boy cross paths in occupied Saint-Malo as WWII burns around them.",
+    "tags": [
+      "pulitzer",
+      "radios",
+      "saint malo"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "FI-14",
+    "avg_rating": 3.0,
+    "ratings_count": 1,
+    "created_at": "2014-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0196",
+    "isbn13": "9780140421996",
+    "title": "Leaves of Grass",
+    "authors": [
+      {
+        "author_id": "A0161",
+        "name": "Walt Whitman"
+      }
+    ],
+    "genres": [
+      "Poetry",
+      "Classics"
+    ],
+    "publisher": "David McKay",
+    "publication_year": 1855,
+    "language": "English",
+    "pages": 462,
+    "description": "An exuberant celebration of democratic camaraderie, physical vitality, nature, and the expansive American soul.",
+    "tags": [
+      "free verse",
+      "democracy",
+      "transcendentalism"
+    ],
+    "total_copies": 6,
+    "available_copies": 4,
+    "shelf_location": "PO-01",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "1855-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0197",
+    "isbn13": "9780571097104",
+    "title": "The Waste Land and Other Poems",
+    "authors": [
+      {
+        "author_id": "A0162",
+        "name": "T.S. Eliot"
+      }
+    ],
+    "genres": [
+      "Poetry",
+      "Classics"
+    ],
+    "publisher": "Faber and Faber",
+    "publication_year": 1922,
+    "language": "English",
+    "pages": 112,
+    "description": "The modernist masterpiece depicting spiritual and cultural fragmentation in post-World War I Western society.",
+    "tags": [
+      "modernism",
+      "postwar",
+      "literary classic"
+    ],
+    "total_copies": 6,
+    "available_copies": 6,
+    "shelf_location": "PO-02",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "1922-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0198",
+    "isbn13": "9780143420583",
+    "title": "Gitanjali (Song Offerings)",
+    "authors": [
+      {
+        "author_id": "A0163",
+        "name": "Rabindranath Tagore"
+      }
+    ],
+    "genres": [
+      "Poetry",
+      "Indian Authors",
+      "Classics"
+    ],
+    "publisher": "Macmillan",
+    "publication_year": 1912,
+    "language": "English",
+    "pages": 104,
+    "description": "Nobel Prize-winning devotional poems celebrating divine intimacy, nature, mortality, and spiritual transcendence.",
+    "tags": [
+      "nobel prize",
+      "devotion",
+      "bengali mysticism"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "PO-03",
+    "avg_rating": 4.5,
+    "ratings_count": 4,
+    "created_at": "1912-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0199",
+    "isbn13": "9780316184144",
+    "title": "The Complete Poems of Emily Dickinson",
+    "authors": [
+      {
+        "author_id": "A0164",
+        "name": "Emily Dickinson"
+      }
+    ],
+    "genres": [
+      "Poetry",
+      "Classics"
+    ],
+    "publisher": "Little, Brown and Company",
+    "publication_year": 1955,
+    "language": "English",
+    "pages": 770,
+    "description": "The secluded Amherst poet's astonishingly original, slant-rhymed meditations on death, immortality, and wonder.",
+    "tags": [
+      "amherst",
+      "slant rhyme",
+      "solitude"
+    ],
+    "total_copies": 6,
+    "available_copies": 4,
+    "shelf_location": "PO-04",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "1955-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0200",
+    "isbn13": "9780679728184",
+    "title": "Selected Poems of Langston Hughes",
+    "authors": [
+      {
+        "author_id": "A0165",
+        "name": "Langston Hughes"
+      }
+    ],
+    "genres": [
+      "Poetry"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "publication_year": 1959,
+    "language": "English",
+    "pages": 320,
+    "description": "The rhythmic jazz poetry of the Harlem Renaissance giving vibrant voice to the joys and struggles of Black America.",
+    "tags": [
+      "harlem renaissance",
+      "jazz poetry",
+      "civil rights"
+    ],
+    "total_copies": 6,
+    "available_copies": 4,
+    "shelf_location": "PO-05",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "1959-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0201",
+    "isbn13": "9780062509598",
+    "title": "The Essential Rumi",
+    "authors": [
+      {
+        "author_id": "A0166",
+        "name": "Jalal al-Din Rumi"
+      },
+      {
+        "author_id": "A0167",
+        "name": "Coleman Barks"
+      }
+    ],
+    "genres": [
+      "Poetry",
+      "Philosophy"
+    ],
+    "publisher": "HarperSanFrancisco",
+    "publication_year": 1995,
+    "language": "English",
+    "pages": 416,
+    "description": "Ecstatic Sufi verses singing of divine love, spiritual longing, wine, friendship, and dissolution of the ego.",
+    "tags": [
+      "sufism",
+      "mysticism",
+      "divine love"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "PO-06",
+    "avg_rating": 3.0,
+    "ratings_count": 1,
+    "created_at": "1995-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0202",
+    "isbn13": "9781449474256",
+    "title": "Milk and Honey",
+    "authors": [
+      {
+        "author_id": "A0168",
+        "name": "Rupi Kaur"
+      }
+    ],
+    "genres": [
+      "Poetry",
+      "Indian Authors"
+    ],
+    "publisher": "Andrews McMeel",
+    "publication_year": 2014,
+    "language": "English",
+    "pages": 208,
+    "description": "A modern illustrated poetry collection processing abuse, loss, femininity, heartbreak, and healing in raw strokes.",
+    "tags": [
+      "instapoetry",
+      "healing",
+      "feminism"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "PO-07",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "2014-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0203",
+    "isbn13": "9781449486792",
+    "title": "The Sun and Her Flowers",
+    "authors": [
+      {
+        "author_id": "A0168",
+        "name": "Rupi Kaur"
+      }
+    ],
+    "genres": [
+      "Poetry",
+      "Indian Authors"
+    ],
+    "publisher": "Andrews McMeel",
+    "publication_year": 2017,
+    "language": "English",
+    "pages": 256,
+    "description": "A five-chapter journey through wilting, falling, rooting, rising, and blooming honoring immigrant roots and self-love.",
+    "tags": [
+      "growth",
+      "immigrant experience",
+      "contemporary poetry"
+    ],
+    "total_copies": 7,
+    "available_copies": 5,
+    "shelf_location": "PO-08",
+    "avg_rating": 3.5,
+    "ratings_count": 2,
+    "created_at": "2017-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0204",
+    "isbn13": "9780142437261",
+    "title": "Twenty Love Poems and a Song of Despair",
+    "authors": [
+      {
+        "author_id": "A0169",
+        "name": "Pablo Neruda"
+      }
+    ],
+    "genres": [
+      "Poetry",
+      "Romance"
+    ],
+    "publisher": "Penguin Books",
+    "publication_year": 1924,
+    "language": "English",
+    "pages": 96,
+    "description": "Sensuous Chilean verses capturing youth's tender, incandescent passion and the sorrow of uncoupling.",
+    "tags": [
+      "passion",
+      "chile",
+      "lyrical romance"
+    ],
+    "total_copies": 6,
+    "available_copies": 5,
+    "shelf_location": "PO-09",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "1924-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0205",
+    "isbn13": "9780060732608",
+    "title": "Ariel",
+    "authors": [
+      {
+        "author_id": "A0170",
+        "name": "Sylvia Plath"
+      }
+    ],
+    "genres": [
+      "Poetry"
+    ],
+    "publisher": "Faber & Faber",
+    "publication_year": 1965,
+    "language": "English",
+    "pages": 128,
+    "description": "Fierce, incendiary confessional poetry written in a tempestuous creative surge during the final months of Plath's life.",
+    "tags": [
+      "confessional",
+      "raw",
+      "literary icon"
+    ],
+    "total_copies": 6,
+    "available_copies": 4,
+    "shelf_location": "PO-10",
+    "avg_rating": 4.0,
+    "ratings_count": 2,
+    "created_at": "1965-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0206",
+    "isbn13": "9780590353427",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "authors": [
+      {
+        "author_id": "A0171",
+        "name": "J.K. Rowling"
+      }
+    ],
+    "genres": [
+      "Children",
+      "Fantasy"
+    ],
+    "publisher": "Scholastic",
+    "publication_year": 1997,
+    "language": "English",
+    "pages": 309,
+    "description": "An orphaned boy learns on his eleventh birthday that he is a wizard destined to attend Hogwarts School of Witchcraft and Wizardry.",
+    "tags": [
+      "hogwarts",
+      "magic",
+      "wizards"
+    ],
+    "total_copies": 10,
+    "available_copies": 7,
+    "shelf_location": "CH-01",
+    "avg_rating": 3.0,
+    "ratings_count": 3,
+    "created_at": "1997-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0207",
+    "isbn13": "9780439064873",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "authors": [
+      {
+        "author_id": "A0171",
+        "name": "J.K. Rowling"
+      }
+    ],
+    "genres": [
+      "Children",
+      "Fantasy"
+    ],
+    "publisher": "Scholastic",
+    "publication_year": 1998,
+    "language": "English",
+    "pages": 341,
+    "description": "Mysterious attacks petrify Hogwarts students when the mythical Chamber of Secrets is opened by the Heir of Slytherin.",
+    "tags": [
+      "basilisk",
+      "dobby",
+      "hogwarts"
+    ],
+    "total_copies": 9,
+    "available_copies": 7,
+    "shelf_location": "CH-02",
+    "avg_rating": 3.67,
+    "ratings_count": 3,
+    "created_at": "1998-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0208",
+    "isbn13": "9780439136365",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "authors": [
+      {
+        "author_id": "A0171",
+        "name": "J.K. Rowling"
+      }
+    ],
+    "genres": [
+      "Children",
+      "Fantasy"
+    ],
+    "publisher": "Scholastic",
+    "publication_year": 1999,
+    "language": "English",
+    "pages": 435,
+    "description": "Soul-sucking Dementors guard Hogwarts while convicted murderer Sirius Black escapes prison apparently seeking Harry.",
+    "tags": [
+      "marauders",
+      "time turner",
+      "sirius black"
+    ],
+    "total_copies": 9,
+    "available_copies": 5,
+    "shelf_location": "CH-03",
+    "avg_rating": 5.0,
+    "ratings_count": 1,
+    "created_at": "1999-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0209",
+    "isbn13": "9780786838653",
+    "title": "The Lightning Thief",
+    "authors": [
+      {
+        "author_id": "A0172",
+        "name": "Rick Riordan"
+      }
+    ],
+    "genres": [
+      "Children",
+      "Fantasy"
+    ],
+    "publisher": "Disney Hyperion",
+    "publication_year": 2005,
+    "language": "English",
+    "pages": 377,
+    "description": "Percy Jackson discovers he is the demigod son of Poseidon and must prevent war among Mount Olympus's gods.",
+    "tags": [
+      "percy jackson",
+      "greek gods",
+      "demigods"
+    ],
+    "total_copies": 8,
+    "available_copies": 6,
+    "shelf_location": "CH-04",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "2005-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0210",
+    "isbn13": "9780786856862",
+    "title": "The Sea of Monsters",
+    "authors": [
+      {
+        "author_id": "A0172",
+        "name": "Rick Riordan"
+      }
+    ],
+    "genres": [
+      "Children",
+      "Fantasy"
+    ],
+    "publisher": "Disney Hyperion",
+    "publication_year": 2006,
+    "language": "English",
+    "pages": 279,
+    "description": "Percy Jackson sails into the Bermuda Triangle to retrieve the Golden Fleece and save Camp Half-Blood's protective tree.",
+    "tags": [
+      "camp half-blood",
+      "cyclops",
+      "mythology"
+    ],
+    "total_copies": 8,
+    "available_copies": 5,
+    "shelf_location": "CH-05",
+    "avg_rating": 4.75,
+    "ratings_count": 4,
+    "created_at": "2006-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0211",
+    "isbn13": "9780439023481",
+    "title": "The Hunger Games",
+    "authors": [
+      {
+        "author_id": "A0173",
+        "name": "Suzanne Collins"
+      }
+    ],
+    "genres": [
+      "Young Adult",
+      "Sci-Fi"
+    ],
+    "publisher": "Scholastic Press",
+    "publication_year": 2008,
+    "language": "English",
+    "pages": 374,
+    "description": "Katniss Everdeen volunteers to replace her younger sister in a televised survival tournament fighting to the death.",
+    "tags": [
+      "katniss",
+      "panem",
+      "battle royale"
+    ],
+    "total_copies": 9,
+    "available_copies": 8,
+    "shelf_location": "CH-06",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "2008-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0212",
+    "isbn13": "9780439023498",
+    "title": "Catching Fire",
+    "authors": [
+      {
+        "author_id": "A0173",
+        "name": "Suzanne Collins"
+      }
+    ],
+    "genres": [
+      "Young Adult",
+      "Sci-Fi"
+    ],
+    "publisher": "Scholastic Press",
+    "publication_year": 2009,
+    "language": "English",
+    "pages": 391,
+    "description": "A defiant victory sparks revolutionary rebellion across Panem's districts as the Capitol forces past victors into the arena.",
+    "tags": [
+      "quarter quell",
+      "rebellion",
+      "mockingjay"
+    ],
+    "total_copies": 8,
+    "available_copies": 5,
+    "shelf_location": "CH-07",
+    "avg_rating": 4.33,
+    "ratings_count": 6,
+    "created_at": "2009-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0213",
+    "isbn13": "9780156012195",
+    "title": "The Little Prince",
+    "authors": [
+      {
+        "author_id": "A0174",
+        "name": "Antoine de Saint-Exupéry"
+      }
+    ],
+    "genres": [
+      "Children",
+      "Classics",
+      "Philosophy"
+    ],
+    "publisher": "Reynal & Hitchcock",
+    "publication_year": 1943,
+    "language": "English",
+    "pages": 96,
+    "description": "A poetic fable of a golden-haired boy who leaves his tiny asteroid to discover what is truly essential to the heart.",
+    "tags": [
+      "friendship",
+      "rose",
+      "philosophical fable"
+    ],
+    "total_copies": 8,
+    "available_copies": 7,
+    "shelf_location": "CH-08",
+    "avg_rating": 5.0,
+    "ratings_count": 3,
+    "created_at": "1943-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0214",
+    "isbn13": "9780064400558",
+    "title": "Charlotte's Web",
+    "authors": [
+      {
+        "author_id": "A0175",
+        "name": "E.B. White"
+      }
+    ],
+    "genres": [
+      "Children",
+      "Classics"
+    ],
+    "publisher": "Harper & Brothers",
+    "publication_year": 1952,
+    "language": "English",
+    "pages": 184,
+    "description": "The heartwarming friendship between a clever barn spider named Charlotte and a runty pig named Wilbur whom she vows to save.",
+    "tags": [
+      "barnyard",
+      "friendship",
+      "classic children"
+    ],
+    "total_copies": 7,
+    "available_copies": 3,
+    "shelf_location": "CH-09",
+    "avg_rating": 5.0,
+    "ratings_count": 2,
+    "created_at": "1952-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0215",
+    "isbn13": "9780142410370",
+    "title": "Matilda",
+    "authors": [
+      {
+        "author_id": "A0176",
+        "name": "Roald Dahl"
+      }
+    ],
+    "genres": [
+      "Children",
+      "Fiction"
+    ],
+    "publisher": "Jonathan Cape",
+    "publication_year": 1988,
+    "language": "English",
+    "pages": 240,
+    "description": "An exceptionally gifted young girl with telekinetic powers stands up to her indifferent parents and a tyrannical headmistress.",
+    "tags": [
+      "telekinesis",
+      "books lover",
+      "roald dahl"
+    ],
+    "total_copies": 8,
+    "available_copies": 8,
+    "shelf_location": "CH-10",
+    "avg_rating": 4.0,
+    "ratings_count": 1,
+    "created_at": "1988-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0216",
+    "isbn13": "9780930289232",
+    "title": "Watchmen",
+    "authors": [
+      {
+        "author_id": "A0177",
+        "name": "Alan Moore"
+      },
+      {
+        "author_id": "A0178",
+        "name": "Dave Gibbons"
+      }
+    ],
+    "genres": [
+      "Graphic Novels",
+      "Classics"
+    ],
+    "publisher": "DC Comics",
+    "publication_year": 1986,
+    "language": "English",
+    "pages": 416,
+    "description": "A deconstructionist graphic masterpiece unravelling a Cold War conspiracy through morally compromised costumed vigilantes.",
+    "tags": [
+      "doomsday clock",
+      "rorschach",
+      "graphic novel"
+    ],
+    "total_copies": 8,
+    "available_copies": 5,
+    "shelf_location": "GN-01",
+    "avg_rating": 3.33,
+    "ratings_count": 3,
+    "created_at": "1986-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0217",
+    "isbn13": "9781401208417",
+    "title": "V for Vendetta",
+    "authors": [
+      {
+        "author_id": "A0177",
+        "name": "Alan Moore"
+      },
+      {
+        "author_id": "A0179",
+        "name": "David Lloyd"
+      }
+    ],
+    "genres": [
+      "Graphic Novels",
+      "Sci-Fi"
+    ],
+    "publisher": "DC Comics",
+    "publication_year": 1988,
+    "language": "English",
+    "pages": 296,
+    "description": "An enigmatic Guy Fawkes-masked anarchist launches a theatrical campaign to overthrow a fascist regime in dystopian Britain.",
+    "tags": [
+      "anarchism",
+      "guy fawkes",
+      "dystopia"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "GN-02",
+    "avg_rating": 4.5,
+    "ratings_count": 4,
+    "created_at": "1988-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0218",
+    "isbn13": "9780679406419",
+    "title": "Maus: A Survivor's Tale",
+    "authors": [
+      {
+        "author_id": "A0180",
+        "name": "Art Spiegelman"
+      }
+    ],
+    "genres": [
+      "Graphic Novels",
+      "History",
+      "Biography"
+    ],
+    "publisher": "Pantheon Books",
+    "publication_year": 1991,
+    "language": "English",
+    "pages": 296,
+    "description": "The Pulitzer Prize-winning graphic memoir depicting Jews as mice and Nazis as cats while recounting Holocaust survival.",
+    "tags": [
+      "pulitzer",
+      "holocaust",
+      "graphic memoir"
+    ],
+    "total_copies": 8,
+    "available_copies": 5,
+    "shelf_location": "GN-03",
+    "avg_rating": 0.0,
+    "ratings_count": 0,
+    "created_at": "1991-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0219",
+    "isbn13": "9780375714573",
+    "title": "Persepolis: The Story of a Childhood",
+    "authors": [
+      {
+        "author_id": "A0181",
+        "name": "Marjane Satrapi"
+      }
+    ],
+    "genres": [
+      "Graphic Novels",
+      "Biography",
+      "History"
+    ],
+    "publisher": "L'Association",
+    "publication_year": 2000,
+    "language": "English",
+    "pages": 153,
+    "description": "A witty and heartbreaking black-and-white graphic memoir of growing up in Tehran during the Islamic Revolution.",
+    "tags": [
+      "iran",
+      "islamic revolution",
+      "autobiography"
+    ],
+    "total_copies": 8,
+    "available_copies": 6,
+    "shelf_location": "GN-04",
+    "avg_rating": 4.33,
+    "ratings_count": 3,
+    "created_at": "2000-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0220",
+    "isbn13": "9781401227883",
+    "title": "The Sandman: Preludes & Nocturnes",
+    "authors": [
+      {
+        "author_id": "A0067",
+        "name": "Neil Gaiman"
+      }
+    ],
+    "genres": [
+      "Graphic Novels",
+      "Fantasy"
+    ],
+    "publisher": "DC Comics",
+    "publication_year": 1989,
+    "language": "English",
+    "pages": 240,
+    "description": "Morpheus, Lord of the Dreaming, is captured for seventy years and must reclaim his magical vestments across realms.",
+    "tags": [
+      "morpheus",
+      "dreaming",
+      "dark fantasy"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "GN-05",
+    "avg_rating": 4.2,
+    "ratings_count": 5,
+    "created_at": "1989-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0221",
+    "isbn13": "9781563893421",
+    "title": "Batman: The Dark Knight Returns",
+    "authors": [
+      {
+        "author_id": "A0182",
+        "name": "Frank Miller"
+      }
+    ],
+    "genres": [
+      "Graphic Novels",
+      "Fiction"
+    ],
+    "publisher": "DC Comics",
+    "publication_year": 1986,
+    "language": "English",
+    "pages": 224,
+    "description": "An aging Bruce Wayne steps out of retirement to reclaim a lawless Gotham City from mutants and corruption.",
+    "tags": [
+      "batman",
+      "gotham",
+      "frank miller"
+    ],
+    "total_copies": 8,
+    "available_copies": 6,
+    "shelf_location": "GN-06",
+    "avg_rating": 4.0,
+    "ratings_count": 3,
+    "created_at": "1986-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0222",
+    "isbn13": "9781401207526",
+    "title": "Batman: Year One",
+    "authors": [
+      {
+        "author_id": "A0182",
+        "name": "Frank Miller"
+      },
+      {
+        "author_id": "A0183",
+        "name": "David Mazzucchelli"
+      }
+    ],
+    "genres": [
+      "Graphic Novels"
+    ],
+    "publisher": "DC Comics",
+    "publication_year": 1987,
+    "language": "English",
+    "pages": 144,
+    "description": "The definitive gritty origin chronicles Bruce Wayne's early rookie vigilante mistakes alongside Lieutenant Jim Gordon.",
+    "tags": [
+      "batman",
+      "jim gordon",
+      "origin"
+    ],
+    "total_copies": 7,
+    "available_copies": 6,
+    "shelf_location": "GN-07",
+    "avg_rating": 4.5,
+    "ratings_count": 2,
+    "created_at": "1987-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0223",
+    "isbn13": "9781607066019",
+    "title": "Saga: Volume 1",
+    "authors": [
+      {
+        "author_id": "A0184",
+        "name": "Brian K. Vaughan"
+      },
+      {
+        "author_id": "A0185",
+        "name": "Fiona Staples"
+      }
+    ],
+    "genres": [
+      "Graphic Novels",
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "publisher": "Image Comics",
+    "publication_year": 2012,
+    "language": "English",
+    "pages": 160,
+    "description": "Two soldiers from warring extraterrestrial races risk everything to protect their newborn infant across the cosmos.",
+    "tags": [
+      "space opera",
+      "star-crossed",
+      "image comics"
+    ],
+    "total_copies": 7,
+    "available_copies": 7,
+    "shelf_location": "GN-08",
+    "avg_rating": 3.67,
+    "ratings_count": 3,
+    "created_at": "2012-01-15T10:00:00Z"
+  },
+  {
+    "book_id": "B0224",
+    "isbn13": "9780060976255",
+    "title": "Understanding Comics: The Invisible Art",
+    "authors": [
+      {
+        "author_id": "A0186",
+        "name": "Scott McCloud"
+      }
+    ],
+    "genres": [
+      "Graphic Novels",
+      "Science"
+    ],
+    "publisher": "Tundra Publishing",
+    "publication_year": 1993,
+    "language": "English",
+    "pages": 222,
+    "description": "A brilliant theoretical exploration in comic form analyzing visual iconography, gutters, and sequential storytelling.",
+    "tags": [
+      "visual storytelling",
+      "comics theory",
+      "semiotics"
+    ],
+    "total_copies": 6,
+    "available_copies": 2,
+    "shelf_location": "GN-09",
+    "avg_rating": 3.5,
+    "ratings_count": 4,
+    "created_at": "1993-01-15T10:00:00Z"
+  }
+]

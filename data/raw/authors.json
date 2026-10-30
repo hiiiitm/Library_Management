@@ -1,0 +1,1304 @@
+[
+  {
+    "author_id": "A0001",
+    "name": "Robert C. Martin",
+    "bio": "Software engineer and author of Clean Code and Clean Architecture.",
+    "nationality": "American",
+    "birth_year": 1952
+  },
+  {
+    "author_id": "A0002",
+    "name": "Erich Gamma",
+    "bio": "Computer scientist, co-author of Design Patterns and Eclipse / VS Code architect.",
+    "nationality": "Swiss",
+    "birth_year": 1961
+  },
+  {
+    "author_id": "A0003",
+    "name": "Richard Helm",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1955
+  },
+  {
+    "author_id": "A0004",
+    "name": "Ralph Johnson",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1951
+  },
+  {
+    "author_id": "A0005",
+    "name": "John Vlissides",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1948
+  },
+  {
+    "author_id": "A0006",
+    "name": "David Thomas",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1937
+  },
+  {
+    "author_id": "A0007",
+    "name": "Andrew Hunt",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1933
+  },
+  {
+    "author_id": "A0008",
+    "name": "Martin Kleppmann",
+    "bio": "Researcher in distributed systems and local-first software at Cambridge.",
+    "nationality": "German",
+    "birth_year": 1984
+  },
+  {
+    "author_id": "A0009",
+    "name": "Thomas H. Cormen",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1974
+  },
+  {
+    "author_id": "A0010",
+    "name": "Charles E. Leiserson",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1924
+  },
+  {
+    "author_id": "A0011",
+    "name": "Ronald L. Rivest",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1923
+  },
+  {
+    "author_id": "A0012",
+    "name": "Clifford Stein",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1931
+  },
+  {
+    "author_id": "A0013",
+    "name": "Martin Fowler",
+    "bio": "Chief Scientist at ThoughtWorks, author on refactoring and software architecture.",
+    "nationality": "British",
+    "birth_year": 1963
+  },
+  {
+    "author_id": "A0014",
+    "name": "Harold Abelson",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1949
+  },
+  {
+    "author_id": "A0015",
+    "name": "Gerald Jay Sussman",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1984
+  },
+  {
+    "author_id": "A0016",
+    "name": "Eric Evans",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1923
+  },
+  {
+    "author_id": "A0017",
+    "name": "Remzi H. Arpaci-Dusseau",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1945
+  },
+  {
+    "author_id": "A0018",
+    "name": "Andrea C. Arpaci-Dusseau",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1973
+  },
+  {
+    "author_id": "A0019",
+    "name": "James F. Kurose",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1948
+  },
+  {
+    "author_id": "A0020",
+    "name": "Keith W. Ross",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1977
+  },
+  {
+    "author_id": "A0021",
+    "name": "Luciano Ramalho",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1955
+  },
+  {
+    "author_id": "A0022",
+    "name": "Alex Petrov",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1920
+  },
+  {
+    "author_id": "A0023",
+    "name": "Jez Humble",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1940
+  },
+  {
+    "author_id": "A0024",
+    "name": "David Farley",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1974
+  },
+  {
+    "author_id": "A0025",
+    "name": "Betsy Beyer",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1963
+  },
+  {
+    "author_id": "A0026",
+    "name": "Chris Jones",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1955
+  },
+  {
+    "author_id": "A0027",
+    "name": "Jennifer Petoff",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1939
+  },
+  {
+    "author_id": "A0028",
+    "name": "Niall Richard Murphy",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1947
+  },
+  {
+    "author_id": "A0029",
+    "name": "Ian Goodfellow",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1963
+  },
+  {
+    "author_id": "A0030",
+    "name": "Yoshua Bengio",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1933
+  },
+  {
+    "author_id": "A0031",
+    "name": "Aaron Courville",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1931
+  },
+  {
+    "author_id": "A0032",
+    "name": "Gayle Laakmann McDowell",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1968
+  },
+  {
+    "author_id": "A0033",
+    "name": "Arundhati Roy",
+    "bio": "Novelist, political activist, and winner of the 1997 Man Booker Prize.",
+    "nationality": "Indian",
+    "birth_year": 1961
+  },
+  {
+    "author_id": "A0034",
+    "name": "Salman Rushdie",
+    "bio": "Celebrated novelist master of magical realism and Booker of Bookers winner.",
+    "nationality": "British-Indian",
+    "birth_year": 1947
+  },
+  {
+    "author_id": "A0035",
+    "name": "Vikram Seth",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1964
+  },
+  {
+    "author_id": "A0036",
+    "name": "Aravind Adiga",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1953
+  },
+  {
+    "author_id": "A0037",
+    "name": "Amish Tripathi",
+    "bio": "Best-selling Indian author renowned for mythological fiction epics.",
+    "nationality": "Indian",
+    "birth_year": 1974
+  },
+  {
+    "author_id": "A0038",
+    "name": "Chitra Banerjee Divakaruni",
+    "bio": "Author and poet renowned for feminist retellings of Indian epics.",
+    "nationality": "Indian-American",
+    "birth_year": 1956
+  },
+  {
+    "author_id": "A0039",
+    "name": "Amitav Ghosh",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1935
+  },
+  {
+    "author_id": "A0040",
+    "name": "R.K. Narayan",
+    "bio": "Leading figure of early Indian literature in English set in Malgudi.",
+    "nationality": "Indian",
+    "birth_year": 1906
+  },
+  {
+    "author_id": "A0041",
+    "name": "Khushwant Singh",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1930
+  },
+  {
+    "author_id": "A0042",
+    "name": "Shashi Tharoor",
+    "bio": "Prolific author, diplomat, and parliamentarian.",
+    "nationality": "Indian",
+    "birth_year": 1956
+  },
+  {
+    "author_id": "A0043",
+    "name": "A.P.J. Abdul Kalam",
+    "bio": "Aerospace scientist and 11th President of India, known as the Missile Man.",
+    "nationality": "Indian",
+    "birth_year": 1931
+  },
+  {
+    "author_id": "A0044",
+    "name": "Arun Tiwari",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1944
+  },
+  {
+    "author_id": "A0045",
+    "name": "George Orwell",
+    "bio": "Novelist, essayist, and critic known for 1984 and Animal Farm.",
+    "nationality": "British",
+    "birth_year": 1903
+  },
+  {
+    "author_id": "A0046",
+    "name": "Jane Austen",
+    "bio": "Novelist known for her incisive romantic social commentary in Regency England.",
+    "nationality": "British",
+    "birth_year": 1775
+  },
+  {
+    "author_id": "A0047",
+    "name": "Harper Lee",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1949
+  },
+  {
+    "author_id": "A0048",
+    "name": "F. Scott Fitzgerald",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1957
+  },
+  {
+    "author_id": "A0049",
+    "name": "Fyodor Dostoevsky",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1930
+  },
+  {
+    "author_id": "A0050",
+    "name": "Leo Tolstoy",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1949
+  },
+  {
+    "author_id": "A0051",
+    "name": "Emily Brontë",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1932
+  },
+  {
+    "author_id": "A0052",
+    "name": "Charlotte Brontë",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1968
+  },
+  {
+    "author_id": "A0053",
+    "name": "Herman Melville",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1955
+  },
+  {
+    "author_id": "A0054",
+    "name": "J.D. Salinger",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1978
+  },
+  {
+    "author_id": "A0055",
+    "name": "Frank Herbert",
+    "bio": "Science fiction writer best known for his magnum opus Dune.",
+    "nationality": "American",
+    "birth_year": 1920
+  },
+  {
+    "author_id": "A0056",
+    "name": "Isaac Asimov",
+    "bio": "Prolific writer and biochemist, creator of the Foundation and Robot series.",
+    "nationality": "American",
+    "birth_year": 1920
+  },
+  {
+    "author_id": "A0057",
+    "name": "William Gibson",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1967
+  },
+  {
+    "author_id": "A0058",
+    "name": "Neal Stephenson",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1965
+  },
+  {
+    "author_id": "A0059",
+    "name": "Dan Simmons",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1946
+  },
+  {
+    "author_id": "A0060",
+    "name": "Ursula K. Le Guin",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1954
+  },
+  {
+    "author_id": "A0061",
+    "name": "Philip K. Dick",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1929
+  },
+  {
+    "author_id": "A0062",
+    "name": "Cixin Liu",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1941
+  },
+  {
+    "author_id": "A0063",
+    "name": "J.R.R. Tolkien",
+    "bio": "Philologist, academic, and author of The Hobbit and The Lord of the Rings.",
+    "nationality": "British",
+    "birth_year": 1892
+  },
+  {
+    "author_id": "A0064",
+    "name": "George R.R. Martin",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1940
+  },
+  {
+    "author_id": "A0065",
+    "name": "Brandon Sanderson",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1979
+  },
+  {
+    "author_id": "A0066",
+    "name": "Patrick Rothfuss",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1968
+  },
+  {
+    "author_id": "A0067",
+    "name": "Neil Gaiman",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1954
+  },
+  {
+    "author_id": "A0068",
+    "name": "Terry Pratchett",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1948
+  },
+  {
+    "author_id": "A0069",
+    "name": "Arthur Conan Doyle",
+    "bio": "Physician and creator of the master consulting detective Sherlock Holmes.",
+    "nationality": "British",
+    "birth_year": 1859
+  },
+  {
+    "author_id": "A0070",
+    "name": "Agatha Christie",
+    "bio": "The Queen of Mystery and bestselling fiction writer in history.",
+    "nationality": "British",
+    "birth_year": 1890
+  },
+  {
+    "author_id": "A0071",
+    "name": "Raymond Chandler",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1949
+  },
+  {
+    "author_id": "A0072",
+    "name": "Dashiell Hammett",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1924
+  },
+  {
+    "author_id": "A0073",
+    "name": "Gillian Flynn",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1960
+  },
+  {
+    "author_id": "A0074",
+    "name": "Stieg Larsson",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1971
+  },
+  {
+    "author_id": "A0075",
+    "name": "Dan Brown",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1954
+  },
+  {
+    "author_id": "A0076",
+    "name": "Thomas Harris",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1928
+  },
+  {
+    "author_id": "A0077",
+    "name": "Robert Ludlum",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1947
+  },
+  {
+    "author_id": "A0078",
+    "name": "Tom Clancy",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1960
+  },
+  {
+    "author_id": "A0079",
+    "name": "Dennis Lehane",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1947
+  },
+  {
+    "author_id": "A0080",
+    "name": "Stephen King",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1983
+  },
+  {
+    "author_id": "A0081",
+    "name": "Marcus Aurelius",
+    "bio": "Roman emperor and prominent Stoic philosopher.",
+    "nationality": "Roman",
+    "birth_year": 121
+  },
+  {
+    "author_id": "A0082",
+    "name": "Seneca",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1978
+  },
+  {
+    "author_id": "A0083",
+    "name": "Plato",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1938
+  },
+  {
+    "author_id": "A0084",
+    "name": "Aristotle",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1953
+  },
+  {
+    "author_id": "A0085",
+    "name": "Friedrich Nietzsche",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1937
+  },
+  {
+    "author_id": "A0086",
+    "name": "Albert Camus",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1951
+  },
+  {
+    "author_id": "A0087",
+    "name": "Immanuel Kant",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1953
+  },
+  {
+    "author_id": "A0088",
+    "name": "Martin Heidegger",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1974
+  },
+  {
+    "author_id": "A0089",
+    "name": "Viktor E. Frankl",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1971
+  },
+  {
+    "author_id": "A0090",
+    "name": "Sun Tzu",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1966
+  },
+  {
+    "author_id": "A0091",
+    "name": "Stephen Hawking",
+    "bio": "Theoretical physicist, cosmologist, and author of A Brief History of Time.",
+    "nationality": "British",
+    "birth_year": 1942
+  },
+  {
+    "author_id": "A0092",
+    "name": "Leonard Mlodinow",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1937
+  },
+  {
+    "author_id": "A0093",
+    "name": "Carl Sagan",
+    "bio": "Astronomer, planetary scientist, and science communicator of Cosmos fame.",
+    "nationality": "American",
+    "birth_year": 1934
+  },
+  {
+    "author_id": "A0094",
+    "name": "Richard Dawkins",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1983
+  },
+  {
+    "author_id": "A0095",
+    "name": "Siddhartha Mukherjee",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1931
+  },
+  {
+    "author_id": "A0096",
+    "name": "Richard P. Feynman",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1926
+  },
+  {
+    "author_id": "A0097",
+    "name": "Carlo Rovelli",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1934
+  },
+  {
+    "author_id": "A0098",
+    "name": "Yuval Noah Harari",
+    "bio": "Historian, philosopher, and bestselling author of Sapiens.",
+    "nationality": "Israeli",
+    "birth_year": 1976
+  },
+  {
+    "author_id": "A0099",
+    "name": "Jared Diamond",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1940
+  },
+  {
+    "author_id": "A0100",
+    "name": "Peter Frankopan",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1974
+  },
+  {
+    "author_id": "A0101",
+    "name": "William Dalrymple",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1928
+  },
+  {
+    "author_id": "A0102",
+    "name": "Neil MacGregor",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1969
+  },
+  {
+    "author_id": "A0103",
+    "name": "Mary Beard",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1968
+  },
+  {
+    "author_id": "A0104",
+    "name": "Mike Duncan",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1979
+  },
+  {
+    "author_id": "A0105",
+    "name": "Tony Judt",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1952
+  },
+  {
+    "author_id": "A0106",
+    "name": "Walter Isaacson",
+    "bio": "Biographer of Steve Jobs, Albert Einstein, and Leonardo da Vinci.",
+    "nationality": "American",
+    "birth_year": 1952
+  },
+  {
+    "author_id": "A0107",
+    "name": "Phil Knight",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1934
+  },
+  {
+    "author_id": "A0108",
+    "name": "Anne Frank",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1954
+  },
+  {
+    "author_id": "A0109",
+    "name": "Nelson Mandela",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1963
+  },
+  {
+    "author_id": "A0110",
+    "name": "Michelle Obama",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1934
+  },
+  {
+    "author_id": "A0111",
+    "name": "Trevor Noah",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1957
+  },
+  {
+    "author_id": "A0112",
+    "name": "Paul Kalanithi",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1975
+  },
+  {
+    "author_id": "A0113",
+    "name": "Tara Westover",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1940
+  },
+  {
+    "author_id": "A0114",
+    "name": "Andre Agassi",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1978
+  },
+  {
+    "author_id": "A0115",
+    "name": "Ron Chernow",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1920
+  },
+  {
+    "author_id": "A0116",
+    "name": "James Clear",
+    "bio": "Author and speaker on habits, decision making, and continuous improvement.",
+    "nationality": "American",
+    "birth_year": 1986
+  },
+  {
+    "author_id": "A0117",
+    "name": "Cal Newport",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1984
+  },
+  {
+    "author_id": "A0118",
+    "name": "Stephen R. Covey",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1942
+  },
+  {
+    "author_id": "A0119",
+    "name": "Daniel Kahneman",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1984
+  },
+  {
+    "author_id": "A0120",
+    "name": "Eckhart Tolle",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1933
+  },
+  {
+    "author_id": "A0121",
+    "name": "Mark Manson",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1958
+  },
+  {
+    "author_id": "A0122",
+    "name": "David Goggins",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1984
+  },
+  {
+    "author_id": "A0123",
+    "name": "Carol S. Dweck",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1945
+  },
+  {
+    "author_id": "A0124",
+    "name": "Greg McKeown",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1939
+  },
+  {
+    "author_id": "A0125",
+    "name": "Austin Kleon",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1967
+  },
+  {
+    "author_id": "A0126",
+    "name": "Jake Knapp",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1940
+  },
+  {
+    "author_id": "A0127",
+    "name": "John Zeratsky",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1920
+  },
+  {
+    "author_id": "A0128",
+    "name": "Morgan Housel",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1961
+  },
+  {
+    "author_id": "A0129",
+    "name": "Peter Thiel",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1982
+  },
+  {
+    "author_id": "A0130",
+    "name": "Blake Masters",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1922
+  },
+  {
+    "author_id": "A0131",
+    "name": "Eric Ries",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1934
+  },
+  {
+    "author_id": "A0132",
+    "name": "Jim Collins",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1966
+  },
+  {
+    "author_id": "A0133",
+    "name": "Steven D. Levitt",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1959
+  },
+  {
+    "author_id": "A0134",
+    "name": "Stephen J. Dubner",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1950
+  },
+  {
+    "author_id": "A0135",
+    "name": "Benjamin Graham",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1927
+  },
+  {
+    "author_id": "A0136",
+    "name": "Ray Dalio",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1950
+  },
+  {
+    "author_id": "A0137",
+    "name": "Ben Horowitz",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1930
+  },
+  {
+    "author_id": "A0138",
+    "name": "Annie Duke",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1930
+  },
+  {
+    "author_id": "A0139",
+    "name": "Jason Fried",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1982
+  },
+  {
+    "author_id": "A0140",
+    "name": "David Heinemeier Hansson",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1928
+  },
+  {
+    "author_id": "A0141",
+    "name": "Clayton M. Christensen",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1936
+  },
+  {
+    "author_id": "A0142",
+    "name": "Nir Eyal",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1936
+  },
+  {
+    "author_id": "A0143",
+    "name": "John Green",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1980
+  },
+  {
+    "author_id": "A0144",
+    "name": "Jojo Moyes",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1941
+  },
+  {
+    "author_id": "A0145",
+    "name": "Sally Rooney",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1953
+  },
+  {
+    "author_id": "A0146",
+    "name": "Audrey Niffenegger",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1974
+  },
+  {
+    "author_id": "A0147",
+    "name": "Diana Gabaldon",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1947
+  },
+  {
+    "author_id": "A0148",
+    "name": "Madeline Miller",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1945
+  },
+  {
+    "author_id": "A0149",
+    "name": "Casey McQuiston",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1959
+  },
+  {
+    "author_id": "A0150",
+    "name": "Taylor Jenkins Reid",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1971
+  },
+  {
+    "author_id": "A0151",
+    "name": "Emily Henry",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1967
+  },
+  {
+    "author_id": "A0152",
+    "name": "Gabriel García Márquez",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1976
+  },
+  {
+    "author_id": "A0153",
+    "name": "Haruki Murakami",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1977
+  },
+  {
+    "author_id": "A0154",
+    "name": "Khaled Hosseini",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1935
+  },
+  {
+    "author_id": "A0155",
+    "name": "Markus Zusak",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1951
+  },
+  {
+    "author_id": "A0156",
+    "name": "Yann Martel",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1948
+  },
+  {
+    "author_id": "A0157",
+    "name": "Toni Morrison",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1928
+  },
+  {
+    "author_id": "A0158",
+    "name": "Kazuo Ishiguro",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1963
+  },
+  {
+    "author_id": "A0159",
+    "name": "Amor Towles",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1922
+  },
+  {
+    "author_id": "A0160",
+    "name": "Anthony Doerr",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1949
+  },
+  {
+    "author_id": "A0161",
+    "name": "Walt Whitman",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1948
+  },
+  {
+    "author_id": "A0162",
+    "name": "T.S. Eliot",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1920
+  },
+  {
+    "author_id": "A0163",
+    "name": "Rabindranath Tagore",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1929
+  },
+  {
+    "author_id": "A0164",
+    "name": "Emily Dickinson",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1927
+  },
+  {
+    "author_id": "A0165",
+    "name": "Langston Hughes",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1949
+  },
+  {
+    "author_id": "A0166",
+    "name": "Jalal al-Din Rumi",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1928
+  },
+  {
+    "author_id": "A0167",
+    "name": "Coleman Barks",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1924
+  },
+  {
+    "author_id": "A0168",
+    "name": "Rupi Kaur",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1962
+  },
+  {
+    "author_id": "A0169",
+    "name": "Pablo Neruda",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1929
+  },
+  {
+    "author_id": "A0170",
+    "name": "Sylvia Plath",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1985
+  },
+  {
+    "author_id": "A0171",
+    "name": "J.K. Rowling",
+    "bio": "Creator of the beloved global Harry Potter fantasy universe.",
+    "nationality": "British",
+    "birth_year": 1965
+  },
+  {
+    "author_id": "A0172",
+    "name": "Rick Riordan",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1955
+  },
+  {
+    "author_id": "A0173",
+    "name": "Suzanne Collins",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1982
+  },
+  {
+    "author_id": "A0174",
+    "name": "Antoine de Saint-Exupéry",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1947
+  },
+  {
+    "author_id": "A0175",
+    "name": "E.B. White",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1936
+  },
+  {
+    "author_id": "A0176",
+    "name": "Roald Dahl",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1980
+  },
+  {
+    "author_id": "A0177",
+    "name": "Alan Moore",
+    "bio": "Visionary graphic novelist of Watchmen, V for Vendetta, and From Hell.",
+    "nationality": "British",
+    "birth_year": 1953
+  },
+  {
+    "author_id": "A0178",
+    "name": "Dave Gibbons",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1980
+  },
+  {
+    "author_id": "A0179",
+    "name": "David Lloyd",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1972
+  },
+  {
+    "author_id": "A0180",
+    "name": "Art Spiegelman",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1944
+  },
+  {
+    "author_id": "A0181",
+    "name": "Marjane Satrapi",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1932
+  },
+  {
+    "author_id": "A0182",
+    "name": "Frank Miller",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1932
+  },
+  {
+    "author_id": "A0183",
+    "name": "David Mazzucchelli",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1975
+  },
+  {
+    "author_id": "A0184",
+    "name": "Brian K. Vaughan",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1965
+  },
+  {
+    "author_id": "A0185",
+    "name": "Fiona Staples",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1974
+  },
+  {
+    "author_id": "A0186",
+    "name": "Scott McCloud",
+    "bio": "Distinguished author with prominent contributions to literature and knowledge.",
+    "nationality": "International",
+    "birth_year": 1972
+  }
+]
